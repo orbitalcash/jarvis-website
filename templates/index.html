@@ -1,0 +1,569 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>JARVIS AI — Créations Digitales Premium</title>
+<meta name="description" content="Découvrez les créations numériques de JARVIS AI : scripts Python, eBooks, workflows n8n, packs de prompts IA. Achetez en un clic sur Gumroad.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:     #020804;
+  --bg2:    #061008;
+  --bg3:    #0a1a0a;
+  --green:  #00d464;
+  --green2: #00ff7f;
+  --green3: #007a3d;
+  --gold:   #ffd700;
+  --blue:   #00b4d8;
+  --purple: #7c3aed;
+  --text:   #e8f5e8;
+  --muted:  #6b7c6b;
+  --border: rgba(0,212,100,0.15);
+  --glass:  rgba(0,212,100,0.04);
+  --glow:   0 0 40px rgba(0,212,100,0.15);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{
+  font-family:'Inter',sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  overflow-x:hidden;
+  line-height:1.6;
+}
+
+/* ── SCROLL BAR ── */
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-track{background:#000;}
+::-webkit-scrollbar-thumb{background:var(--green3);border-radius:2px;}
+
+/* ── GRID BACKGROUND ── */
+body::before{
+  content:'';
+  position:fixed;inset:0;
+  background-image:
+    linear-gradient(rgba(0,212,100,0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(0,212,100,0.03) 1px, transparent 1px);
+  background-size:50px 50px;
+  pointer-events:none;z-index:0;
+}
+
+/* ── NAV ── */
+nav{
+  position:fixed;top:0;left:0;right:0;z-index:100;
+  padding:0 40px;height:64px;
+  display:flex;align-items:center;justify-content:space-between;
+  background:rgba(2,8,4,0.85);
+  backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--border);
+}
+.nav-logo{
+  display:flex;align-items:center;gap:10px;
+  font-family:'JetBrains Mono',monospace;
+  font-size:20px;font-weight:700;color:var(--green);
+  text-decoration:none;letter-spacing:2px;
+}
+.nav-logo-dot{
+  width:10px;height:10px;border-radius:50%;
+  background:var(--green);
+  box-shadow:0 0 12px var(--green);
+  animation:pulse 2s infinite;
+}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.4;}}
+.nav-links{display:flex;gap:32px;align-items:center;}
+.nav-links a{
+  color:var(--muted);font-size:14px;font-weight:500;
+  text-decoration:none;transition:color 0.2s;
+}
+.nav-links a:hover{color:var(--green);}
+.nav-cta{
+  padding:8px 20px;
+  background:linear-gradient(135deg,var(--green),var(--green3));
+  color:#000;font-weight:700;font-size:13px;
+  border-radius:6px;text-decoration:none;
+  transition:transform 0.2s,box-shadow 0.2s;
+  box-shadow:0 0 20px rgba(0,212,100,0.3);
+}
+.nav-cta:hover{transform:translateY(-1px);box-shadow:0 0 30px rgba(0,212,100,0.5);}
+
+/* ── HERO ── */
+.hero{
+  min-height:100vh;
+  display:flex;flex-direction:column;
+  align-items:center;justify-content:center;
+  text-align:center;
+  padding:120px 20px 80px;
+  position:relative;z-index:1;
+}
+.hero-badge{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:6px 16px;
+  background:rgba(0,212,100,0.08);
+  border:1px solid rgba(0,212,100,0.25);
+  border-radius:100px;
+  font-size:12px;font-weight:600;
+  color:var(--green);letter-spacing:1px;
+  margin-bottom:32px;
+  animation:fadeIn 0.6s ease;
+}
+.hero-badge-dot{
+  width:6px;height:6px;border-radius:50%;
+  background:var(--green);
+  box-shadow:0 0 8px var(--green);
+  animation:pulse 1.5s infinite;
+}
+.hero-title{
+  font-size:clamp(42px,7vw,88px);
+  font-weight:900;
+  line-height:1.05;
+  letter-spacing:-2px;
+  margin-bottom:24px;
+  animation:slideUp 0.7s ease;
+}
+.hero-title span{
+  background:linear-gradient(135deg,var(--green),var(--blue),var(--green2));
+  -webkit-background-clip:text;
+  -webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+.hero-sub{
+  font-size:clamp(16px,2vw,20px);
+  color:var(--muted);max-width:580px;
+  margin:0 auto 48px;
+  font-weight:400;line-height:1.7;
+  animation:slideUp 0.8s ease;
+}
+.hero-actions{
+  display:flex;gap:16px;flex-wrap:wrap;justify-content:center;
+  animation:slideUp 0.9s ease;
+}
+.btn-primary{
+  padding:14px 32px;
+  background:linear-gradient(135deg,var(--green),var(--green3));
+  color:#000;font-weight:700;font-size:15px;
+  border-radius:8px;text-decoration:none;
+  box-shadow:0 0 30px rgba(0,212,100,0.4);
+  transition:all 0.2s;
+}
+.btn-primary:hover{transform:translateY(-2px);box-shadow:0 0 50px rgba(0,212,100,0.6);}
+.btn-secondary{
+  padding:14px 32px;
+  background:transparent;
+  color:var(--green);font-weight:600;font-size:15px;
+  border:1px solid rgba(0,212,100,0.4);
+  border-radius:8px;text-decoration:none;
+  transition:all 0.2s;
+}
+.btn-secondary:hover{background:rgba(0,212,100,0.08);border-color:var(--green);}
+
+/* ── STATS BAND ── */
+.stats-band{
+  position:relative;z-index:1;
+  padding:24px 40px;
+  background:rgba(0,212,100,0.04);
+  border-top:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  display:flex;justify-content:center;gap:80px;flex-wrap:wrap;
+}
+.stat-item{text-align:center;}
+.stat-num{
+  font-size:36px;font-weight:900;
+  color:var(--green);font-family:'JetBrains Mono',monospace;
+  text-shadow:0 0 20px rgba(0,212,100,0.5);
+}
+.stat-lbl{font-size:12px;color:var(--muted);margin-top:4px;letter-spacing:1px;text-transform:uppercase;}
+
+/* ── SECTIONS ── */
+section{
+  position:relative;z-index:1;
+  padding:100px 40px;max-width:1200px;margin:0 auto;
+}
+.section-tag{
+  font-size:11px;font-weight:700;letter-spacing:2px;
+  color:var(--green);text-transform:uppercase;margin-bottom:12px;
+}
+.section-title{
+  font-size:clamp(28px,4vw,48px);font-weight:800;
+  line-height:1.15;margin-bottom:16px;
+}
+.section-sub{font-size:17px;color:var(--muted);max-width:500px;margin-bottom:60px;}
+
+/* ── PRODUCT CARDS ── */
+.products-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(340px,1fr));
+  gap:24px;
+}
+.product-card{
+  background:var(--glass);
+  border:1px solid var(--border);
+  border-radius:16px;
+  padding:28px;
+  transition:all 0.3s;
+  position:relative;
+  overflow:hidden;
+  cursor:pointer;
+}
+.product-card::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(circle at 50% 0%,rgba(0,212,100,0.08),transparent 70%);
+  opacity:0;transition:opacity 0.3s;
+}
+.product-card:hover::before{opacity:1;}
+.product-card:hover{
+  border-color:rgba(0,212,100,0.4);
+  transform:translateY(-4px);
+  box-shadow:0 20px 60px rgba(0,0,0,0.5),0 0 30px rgba(0,212,100,0.1);
+}
+.card-icon{
+  font-size:36px;margin-bottom:16px;
+  display:block;
+}
+.card-type{
+  font-size:10px;font-weight:700;letter-spacing:1.5px;
+  color:var(--green);text-transform:uppercase;margin-bottom:8px;
+}
+.card-title{
+  font-size:18px;font-weight:700;line-height:1.35;
+  margin-bottom:12px;color:var(--text);
+}
+.card-desc{
+  font-size:13px;color:var(--muted);line-height:1.6;
+  margin-bottom:20px;
+  display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;
+}
+.card-footer{
+  display:flex;align-items:center;justify-content:space-between;
+}
+.card-price{
+  font-size:24px;font-weight:900;
+  color:var(--gold);font-family:'JetBrains Mono',monospace;
+}
+.card-btn{
+  padding:9px 20px;
+  background:linear-gradient(135deg,var(--green),var(--green3));
+  color:#000;font-weight:700;font-size:12px;
+  border-radius:6px;text-decoration:none;
+  transition:all 0.2s;
+  box-shadow:0 0 15px rgba(0,212,100,0.3);
+}
+.card-btn:hover{box-shadow:0 0 25px rgba(0,212,100,0.6);transform:scale(1.03);}
+
+/* ── FEATURES ── */
+.features-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+  gap:20px;
+}
+.feature-card{
+  padding:28px;
+  background:rgba(0,212,100,0.03);
+  border:1px solid var(--border);
+  border-radius:14px;
+  transition:border-color 0.2s;
+}
+.feature-card:hover{border-color:rgba(0,212,100,0.3);}
+.feature-icon{font-size:28px;margin-bottom:14px;}
+.feature-title{font-size:16px;font-weight:700;margin-bottom:8px;}
+.feature-desc{font-size:13px;color:var(--muted);line-height:1.6;}
+
+/* ── CTA BAND ── */
+.cta-band{
+  position:relative;z-index:1;
+  padding:80px 40px;
+  background:linear-gradient(135deg,rgba(0,212,100,0.06),rgba(0,180,216,0.04));
+  border-top:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  text-align:center;
+}
+.cta-band h2{
+  font-size:clamp(28px,4vw,48px);font-weight:800;margin-bottom:16px;
+}
+.cta-band p{font-size:17px;color:var(--muted);margin-bottom:40px;}
+
+/* ── FOOTER ── */
+footer{
+  position:relative;z-index:1;
+  padding:60px 40px 40px;
+  border-top:1px solid var(--border);
+  display:flex;flex-direction:column;align-items:center;gap:24px;
+}
+.footer-logo{
+  font-family:'JetBrains Mono',monospace;
+  font-size:18px;font-weight:700;color:var(--green);letter-spacing:3px;
+}
+.footer-links{display:flex;gap:24px;flex-wrap:wrap;justify-content:center;}
+.footer-links a{font-size:13px;color:var(--muted);text-decoration:none;transition:color 0.2s;}
+.footer-links a:hover{color:var(--green);}
+.footer-copy{font-size:12px;color:var(--muted);}
+
+/* ── TICKER ── */
+.ticker{
+  overflow:hidden;
+  background:rgba(0,212,100,0.06);
+  border-top:1px solid var(--border);
+  border-bottom:1px solid var(--border);
+  padding:10px 0;white-space:nowrap;
+  font-family:'JetBrains Mono',monospace;
+  font-size:12px;color:var(--green);letter-spacing:1px;
+}
+.ticker-inner{
+  display:inline-block;
+  animation:ticker 30s linear infinite;
+}
+@keyframes ticker{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+
+/* ── FLOATING PARTICLES ── */
+.particle{
+  position:fixed;border-radius:50%;
+  background:var(--green);opacity:0.15;
+  pointer-events:none;z-index:0;
+  animation:float linear infinite;
+}
+@keyframes float{
+  0%{transform:translateY(100vh) scale(0);}
+  100%{transform:translateY(-10vh) scale(1);}
+}
+
+/* ── ANIMATIONS ── */
+@keyframes fadeIn{from{opacity:0;}to{opacity:1;}}
+@keyframes slideUp{from{opacity:0;transform:translateY(30px);}to{opacity:1;transform:translateY(0);}}
+
+/* ── TERMINAL BADGE ── */
+.terminal{
+  font-family:'JetBrains Mono',monospace;
+  font-size:12px;
+  background:rgba(0,0,0,0.6);
+  border:1px solid rgba(0,212,100,0.25);
+  border-radius:8px;
+  padding:16px 20px;
+  margin:40px auto;
+  max-width:520px;
+  text-align:left;
+  color:var(--green);
+}
+.terminal .prompt{color:var(--muted);}
+.terminal .cmd{color:var(--green2);}
+.cursor{animation:blink 1s infinite;color:var(--green);}
+@keyframes blink{0%,100%{opacity:1;}50%{opacity:0;}}
+
+/* ── RESPONSIVE ── */
+@media(max-width:768px){
+  nav{padding:0 20px;}
+  .nav-links{display:none;}
+  .stats-band{gap:40px;}
+  section{padding:60px 20px;}
+  .products-grid{grid-template-columns:1fr;}
+  .cta-band{padding:60px 20px;}
+}
+</style>
+</head>
+<body>
+
+<!-- Particles -->
+<div id="particles"></div>
+
+<!-- NAV -->
+<nav>
+  <a href="/" class="nav-logo">
+    <div class="nav-logo-dot"></div>
+    JARVIS<span style="color:#fff;opacity:0.4;">_</span>AI
+  </a>
+  <div class="nav-links">
+    <a href="/">Accueil</a>
+    <a href="/products">Produits</a>
+    <a href="https://ngombad.gumroad.com" target="_blank">Gumroad</a>
+    <a href="/products" class="nav-cta">Voir tout →</a>
+  </div>
+</nav>
+
+<!-- TICKER -->
+<div class="ticker" style="margin-top:64px;">
+  <div class="ticker-inner">
+    &nbsp;&nbsp;⬡ JARVIS AI &nbsp;·&nbsp; Scripts Python &nbsp;·&nbsp; eBooks Premium &nbsp;·&nbsp; Workflows n8n &nbsp;·&nbsp; Packs Prompts IA &nbsp;·&nbsp; Templates SaaS &nbsp;·&nbsp; Guides Complets &nbsp;·&nbsp; Automatisations &nbsp;·&nbsp; Revenus Passifs &nbsp;·&nbsp;
+    &nbsp;&nbsp;⬡ JARVIS AI &nbsp;·&nbsp; Scripts Python &nbsp;·&nbsp; eBooks Premium &nbsp;·&nbsp; Workflows n8n &nbsp;·&nbsp; Packs Prompts IA &nbsp;·&nbsp; Templates SaaS &nbsp;·&nbsp; Guides Complets &nbsp;·&nbsp; Automatisations &nbsp;·&nbsp; Revenus Passifs &nbsp;·&nbsp;
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-badge">
+    <span class="hero-badge-dot"></span>
+    Intelligence Artificielle · Créations Premium
+  </div>
+  <h1 class="hero-title">
+    L'IA qui crée,<br><span>publie et vend</span><br>pour vous.
+  </h1>
+  <p class="hero-sub">
+    JARVIS AI génère automatiquement des produits numériques premium — scripts Python, eBooks, workflows n8n, packs de prompts — et les met en vente instantanément.
+  </p>
+
+  <div class="terminal">
+    <div><span class="prompt">jarvis@ai:~$ </span><span class="cmd">generate --type=ebook --topic="stratégies IA"</span></div>
+    <div style="color:#aaa;margin-top:6px;">✓ Contenu généré · 1 303 mots</div>
+    <div style="color:#aaa;">✓ PDF premium créé · 7 pages</div>
+    <div style="color:var(--green2);">✓ Publié sur Gumroad · 15€</div>
+    <div style="margin-top:6px;"><span class="prompt">jarvis@ai:~$ </span><span class="cursor">█</span></div>
+  </div>
+
+  <div class="hero-actions">
+    <a href="/products" class="btn-primary">🛒 Explorer les produits</a>
+    <a href="https://ngombad.gumroad.com" target="_blank" class="btn-secondary">Boutique Gumroad →</a>
+  </div>
+</div>
+
+<!-- STATS -->
+<div class="stats-band">
+  <div class="stat-item">
+    <div class="stat-num">{{ stats.total }}+</div>
+    <div class="stat-lbl">Produits créés</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-num">{{ stats.types }}</div>
+    <div class="stat-lbl">Types de créations</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-num">{{ stats.min_price }}€</div>
+    <div class="stat-lbl">À partir de</div>
+  </div>
+  <div class="stat-item">
+    <div class="stat-num">24/7</div>
+    <div class="stat-lbl">Génération auto</div>
+  </div>
+</div>
+
+<!-- FEATURED PRODUCTS -->
+<section>
+  <div class="section-tag">// Dernières créations</div>
+  <h2 class="section-title">Produits récents</h2>
+  <p class="section-sub">Scripts, guides, workflows — chaque produit est conçu et optimisé par JARVIS AI.</p>
+
+  <div class="products-grid">
+    {% for p in products %}
+    <div class="product-card" onclick="window.open('{{ p.url }}','_blank')">
+      <span class="card-icon">{{ p.icon }}</span>
+      <div class="card-type">{{ p.type_label }}</div>
+      <div class="card-title">{{ p.topic | title }}</div>
+      <div class="card-footer">
+        <div class="card-price">{{ "%.0f"|format(p.price) }}€</div>
+        <a href="{{ p.url }}" target="_blank" class="card-btn" onclick="event.stopPropagation()">Acheter →</a>
+      </div>
+    </div>
+    {% endfor %}
+    {% if not products %}
+    <div style="color:var(--muted);font-size:14px;grid-column:1/-1;text-align:center;padding:60px;">
+      Les produits arrivent bientôt — JARVIS est en train de créer...
+    </div>
+    {% endif %}
+  </div>
+
+  {% if products %}
+  <div style="text-align:center;margin-top:48px;">
+    <a href="/products" class="btn-secondary" style="display:inline-block;">Voir tous les produits →</a>
+  </div>
+  {% endif %}
+</section>
+
+<!-- FEATURES -->
+<section style="background:rgba(0,212,100,0.02);border-top:1px solid var(--border);border-bottom:1px solid var(--border);max-width:100%;padding:80px 40px;">
+  <div style="max-width:1200px;margin:0 auto;">
+    <div class="section-tag">// Ce que JARVIS produit</div>
+    <h2 class="section-title">6 types de créations</h2>
+    <div class="features-grid">
+      <div class="feature-card">
+        <div class="feature-icon">🐍</div>
+        <div class="feature-title">Scripts Python</div>
+        <div class="feature-desc">Automatisations complètes, bots, scrapers — code prêt à déployer. Valeur : 10–50€.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📘</div>
+        <div class="feature-title">eBooks Premium</div>
+        <div class="feature-desc">Guides complets en PDF avec table des matières, exemples concrets et ressources. Valeur : 9–20€.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">⚙️</div>
+        <div class="feature-title">Workflows n8n</div>
+        <div class="feature-desc">Automatisations no-code prêtes à importer. LinkedIn, email, veille, reporting. Valeur : 15–30€.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">✨</div>
+        <div class="feature-title">Packs Prompts IA</div>
+        <div class="feature-desc">10 prompts premium par pack, testés et optimisés pour ChatGPT/Claude. Valeur : 5–15€.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">🚀</div>
+        <div class="feature-title">Templates SaaS</div>
+        <div class="feature-desc">Architectures FastAPI + SQLite complètes, déployables sur Railway en 5 minutes. Valeur : 20–80€.</div>
+      </div>
+      <div class="feature-card">
+        <div class="feature-icon">📋</div>
+        <div class="feature-title">Cheat Sheets</div>
+        <div class="feature-desc">Références visuelles condensées pour développeurs et entrepreneurs. Valeur : 5–12€.</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- CTA -->
+<div class="cta-band">
+  <div class="section-tag" style="justify-content:center;display:flex;">// Boutique</div>
+  <h2>Tout est disponible<br>sur <span style="color:var(--green);">Gumroad</span></h2>
+  <p>Livraison instantanée · Paiement sécurisé · Satisfait ou remboursé</p>
+  <div style="display:flex;gap:16px;justify-content:center;flex-wrap:wrap;">
+    <a href="/products" class="btn-primary">🛒 Voir tous les produits</a>
+    <a href="https://ngombad.gumroad.com" target="_blank" class="btn-secondary">Boutique Gumroad</a>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">⬡ JARVIS AI</div>
+  <div class="footer-links">
+    <a href="/">Accueil</a>
+    <a href="/products">Produits</a>
+    <a href="https://ngombad.gumroad.com" target="_blank">Gumroad</a>
+  </div>
+  <div class="footer-copy">© {{ year }} JARVIS AI — Créations digitales générées par intelligence artificielle</div>
+</footer>
+
+<script>
+// Particles
+(function(){
+  const c = document.getElementById('particles');
+  for(let i=0;i<12;i++){
+    const d = document.createElement('div');
+    d.className = 'particle';
+    const s = Math.random()*4+2;
+    d.style.cssText = `
+      width:${s}px;height:${s}px;
+      left:${Math.random()*100}%;
+      animation-duration:${Math.random()*20+15}s;
+      animation-delay:${Math.random()*15}s;
+    `;
+    c.appendChild(d);
+  }
+})();
+
+// Intersection Observer for cards
+const cards = document.querySelectorAll('.product-card,.feature-card');
+const obs = new IntersectionObserver(entries => {
+  entries.forEach((e,i) => {
+    if(e.isIntersecting){
+      setTimeout(()=>{
+        e.target.style.opacity='1';
+        e.target.style.transform='translateY(0)';
+      }, i*80);
+      obs.unobserve(e.target);
+    }
+  });
+},{threshold:0.1});
+cards.forEach(c=>{
+  c.style.opacity='0';
+  c.style.transform='translateY(20px)';
+  c.style.transition='opacity 0.5s ease, transform 0.5s ease, border-color 0.3s, box-shadow 0.3s';
+  obs.observe(c);
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Catalogue — JARVIS AI</title>
+<style>
+:root{--g:#00d464;--g2:#00ff88;--gold:#ffd700;--bg:#020804;--bg2:#040d06;--bg3:#071409;--card:#0a1f0e;--border:#0d2e14;--text:#c8e6cd;--muted:#4a7a52}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{font-family:'Segoe UI',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;overflow-x:hidden}
+
+/* BG grid */
+body::before{content:'';position:fixed;inset:0;background:linear-gradient(rgba(0,212,100,.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,212,100,.03) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+
+/* NAV */
+nav{position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(2,8,4,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:60px}
+.nav-logo{display:flex;align-items:center;gap:.6rem;text-decoration:none}
+.logo-dot{width:10px;height:10px;border-radius:50%;background:var(--g);box-shadow:0 0 10px var(--g);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{box-shadow:0 0 6px var(--g)}50%{box-shadow:0 0 16px var(--g),0 0 30px var(--g)}}
+.logo-text{font-size:1.2rem;font-weight:700;color:#fff;letter-spacing:.1em}
+.logo-text span{color:var(--g)}
+nav ul{list-style:none;display:flex;gap:2rem}
+nav ul a{color:var(--muted);text-decoration:none;font-size:.85rem;letter-spacing:.05em;transition:color .2s}
+nav ul a:hover,nav ul a.active{color:var(--g)}
+.nav-cta{background:var(--g);color:#000;font-weight:700;padding:.4rem 1.2rem;border-radius:20px;font-size:.8rem;letter-spacing:.1em;text-decoration:none;transition:all .2s}
+.nav-cta:hover{background:var(--g2);box-shadow:0 0 20px var(--g)}
+
+/* PAGE HEADER */
+.page-header{padding:100px 2rem 2rem;text-align:center;position:relative;z-index:1}
+.page-header h1{font-size:clamp(1.8rem,5vw,3rem);font-weight:900;margin-bottom:.5rem}
+.page-header h1 span{background:linear-gradient(135deg,var(--g),var(--g2),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.page-header p{color:var(--muted);font-size:1rem;max-width:500px;margin:0 auto}
+
+/* FILTERS */
+.filters-bar{position:sticky;top:60px;z-index:90;background:rgba(2,8,4,.95);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);padding:1rem 2rem;display:flex;flex-wrap:wrap;gap:.8rem;align-items:center;justify-content:space-between}
+.filter-group{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center}
+.filter-label{font-size:.75rem;color:var(--muted);letter-spacing:.1em;text-transform:uppercase;white-space:nowrap}
+.filter-btn{padding:.3rem .9rem;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--muted);font-size:.78rem;cursor:pointer;transition:all .2s;text-decoration:none;display:inline-block}
+.filter-btn:hover,.filter-btn.active{border-color:var(--g);color:var(--g);background:rgba(0,212,100,.08)}
+.search-wrap{position:relative;display:flex;align-items:center}
+.search-wrap input{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:.35rem 1rem .35rem 2.2rem;color:var(--text);font-size:.82rem;width:200px;outline:none;transition:all .2s}
+.search-wrap input:focus{border-color:var(--g);width:260px;box-shadow:0 0 12px rgba(0,212,100,.15)}
+.search-wrap input::placeholder{color:var(--muted)}
+.search-icon{position:absolute;left:.7rem;color:var(--muted);font-size:.9rem;pointer-events:none}
+
+/* RESULTS BAR */
+.results-bar{padding:.6rem 2rem;position:relative;z-index:1;display:flex;align-items:center;justify-content:space-between}
+.results-count{font-size:.82rem;color:var(--muted)}
+.results-count strong{color:var(--g)}
+.sort-select{background:var(--card);border:1px solid var(--border);color:var(--text);padding:.25rem .7rem;border-radius:8px;font-size:.78rem;outline:none;cursor:pointer}
+.sort-select option{background:var(--bg2)}
+
+/* CATALOG GRID */
+.catalog{padding:.5rem 2rem 4rem;position:relative;z-index:1;display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1.5rem;max-width:1400px;margin:0 auto}
+
+/* PRODUCT CARD */
+.card{background:var(--card);border:1px solid var(--border);border-radius:16px;overflow:hidden;transition:all .35s;position:relative;display:flex;flex-direction:column}
+.card::before{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(0,212,100,.04),transparent);opacity:0;transition:opacity .35s}
+.card:hover{border-color:var(--g);transform:translateY(-4px);box-shadow:0 8px 40px rgba(0,212,100,.18)}
+.card:hover::before{opacity:1}
+
+.card-badge{position:absolute;top:1rem;right:1rem;z-index:2;padding:.2rem .6rem;border-radius:20px;font-size:.65rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+.badge-new{background:rgba(255,215,0,.15);color:var(--gold);border:1px solid rgba(255,215,0,.3)}
+.badge-hot{background:rgba(255,80,80,.15);color:#ff5050;border:1px solid rgba(255,80,80,.3)}
+.badge-ai{background:rgba(0,212,100,.15);color:var(--g);border:1px solid rgba(0,212,100,.3)}
+
+.card-icon{padding:2rem 1.5rem 1rem;font-size:2.8rem;position:relative;z-index:1}
+.card-body{padding:0 1.5rem 1.5rem;flex:1;display:flex;flex-direction:column;position:relative;z-index:1}
+.card-type{font-size:.68rem;color:var(--g);letter-spacing:.15em;text-transform:uppercase;font-weight:600;margin-bottom:.4rem}
+.card-title{font-size:1rem;font-weight:700;color:#fff;line-height:1.4;margin-bottom:.6rem;flex:1}
+.card-desc{font-size:.8rem;color:var(--muted);line-height:1.5;margin-bottom:1rem}
+.card-footer{display:flex;align-items:center;justify-content:space-between;gap:.5rem;margin-top:auto}
+.card-price{font-size:1.3rem;font-weight:800;color:var(--g)}
+.card-price sub{font-size:.6rem;color:var(--muted);font-weight:400}
+.btn-buy{background:linear-gradient(135deg,var(--g),#00b856);color:#000;font-weight:700;font-size:.78rem;padding:.5rem 1rem;border-radius:20px;text-decoration:none;letter-spacing:.05em;transition:all .2s;white-space:nowrap}
+.btn-buy:hover{box-shadow:0 0 20px rgba(0,212,100,.5);transform:scale(1.04)}
+
+/* EMPTY STATE */
+.empty-state{grid-column:1/-1;text-align:center;padding:5rem 2rem;color:var(--muted)}
+.empty-state .empty-icon{font-size:4rem;margin-bottom:1rem;opacity:.4}
+.empty-state p{font-size:1rem;margin-bottom:.5rem}
+.empty-state small{font-size:.82rem;opacity:.6}
+
+/* FEATURED BANNER */
+.featured-banner{margin:2rem 2rem 0;padding:1.5rem 2rem;background:linear-gradient(135deg,rgba(0,212,100,.1),rgba(0,180,86,.05));border:1px solid rgba(0,212,100,.2);border-radius:16px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:1rem;position:relative;z-index:1;max-width:1400px;margin-left:auto;margin-right:auto}
+.banner-text h2{font-size:1.1rem;font-weight:700;color:#fff;margin-bottom:.3rem}
+.banner-text p{font-size:.82rem;color:var(--muted)}
+.banner-link{background:var(--g);color:#000;font-weight:700;font-size:.82rem;padding:.6rem 1.5rem;border-radius:20px;text-decoration:none;letter-spacing:.05em;transition:all .2s;white-space:nowrap}
+.banner-link:hover{box-shadow:0 0 20px var(--g)}
+
+/* FOOTER */
+footer{border-top:1px solid var(--border);padding:2rem;text-align:center;color:var(--muted);font-size:.78rem;position:relative;z-index:1}
+footer a{color:var(--g);text-decoration:none}
+
+/* RESPONSIVE */
+@media(max-width:768px){
+  nav ul{display:none}
+  .filters-bar{flex-direction:column;align-items:flex-start}
+  .search-wrap input{width:100%}
+  .catalog{grid-template-columns:1fr 1fr;gap:1rem;padding:.5rem 1rem 3rem}
+  .featured-banner{flex-direction:column}
+}
+@media(max-width:480px){
+  .catalog{grid-template-columns:1fr}
+}
+
+/* Animations */
+.card{opacity:0;transform:translateY(20px)}
+.card.visible{opacity:1;transform:translateY(0);transition:opacity .5s,transform .5s,border-color .35s,box-shadow .35s}
+</style>
+</head>
+<body>
+
+<nav>
+  <a href="/" class="nav-logo">
+    <div class="logo-dot"></div>
+    <span class="logo-text">JARVIS <span>AI</span></span>
+  </a>
+  <ul>
+    <li><a href="/">Accueil</a></li>
+    <li><a href="/products" class="active">Catalogue</a></li>
+    <li><a href="https://ngombad.gumroad.com" target="_blank">Gumroad</a></li>
+  </ul>
+  <a href="https://ngombad.gumroad.com" target="_blank" class="nav-cta">ACHETER →</a>
+</nav>
+
+<div class="page-header">
+  <h1>Catalogue <span>Complet</span></h1>
+  <p>{{ products|length }} créations numériques premium — eBooks, scripts, workflows & plus</p>
+</div>
+
+<!-- Filters bar -->
+<div class="filters-bar">
+  <div class="filter-group">
+    <span class="filter-label">Filtrer :</span>
+    <a href="/products" class="filter-btn {% if not filter_type %}active{% endif %}">Tout</a>
+    {% for type_key, type_label in types %}
+    <a href="/products?type={{ type_key }}{% if query %}&q={{ query }}{% endif %}"
+       class="filter-btn {% if filter_type == type_key %}active{% endif %}">{{ type_label }}</a>
+    {% endfor %}
+  </div>
+  <form method="get" action="/products" class="search-wrap">
+    {% if filter_type %}<input type="hidden" name="type" value="{{ filter_type }}"/>{% endif %}
+    <span class="search-icon">🔍</span>
+    <input type="text" name="q" placeholder="Rechercher..." value="{{ query }}"/>
+  </form>
+</div>
+
+<div class="results-bar" style="max-width:1400px;margin:0 auto">
+  <span class="results-count"><strong>{{ products|length }}</strong> produit{% if products|length > 1 %}s{% endif %} trouvé{% if products|length > 1 %}s{% endif %}</span>
+  <select class="sort-select" onchange="sortProducts(this.value)">
+    <option value="default">Trier par défaut</option>
+    <option value="price-asc">Prix croissant</option>
+    <option value="price-desc">Prix décroissant</option>
+  </select>
+</div>
+
+<!-- Featured banner -->
+{% if not filter_type and not query %}
+<div class="featured-banner">
+  <div class="banner-text">
+    <h2>🤖 Généré par JARVIS AI — Mis à jour en temps réel</h2>
+    <p>Toutes les créations sont disponibles immédiatement au téléchargement après achat.</p>
+  </div>
+  <a href="https://ngombad.gumroad.com" target="_blank" class="banner-link">Voir sur Gumroad →</a>
+</div>
+{% endif %}
+
+<!-- Product grid -->
+<div class="catalog" id="catalog">
+  {% if products %}
+    {% for p in products %}
+    {% set badges = ['AI','NEW','HOT'] %}
+    {% set badge_classes = ['ai','new','hot'] %}
+    {% set bi = loop.index0 % 3 %}
+    <div class="card" data-price="{{ p.price }}" data-title="{{ p.topic or p.title or '' }}">
+      <span class="card-badge badge-{{ badge_classes[bi] }}">{{ badges[bi] }}</span>
+      <div class="card-icon">{{ p.icon }}</div>
+      <div class="card-body">
+        <div class="card-type">{{ p.type_label }}</div>
+        <div class="card-title">{{ p.topic or p.title or 'Produit Digital' }}</div>
+        <div class="card-desc">
+          {% if p.description %}
+            {{ p.description[:100] }}{% if p.description|length > 100 %}…{% endif %}
+          {% else %}
+            Ressource premium créée par JARVIS AI — automatisations, stratégies, outils.
+          {% endif %}
+        </div>
+        <div class="card-footer">
+          <div class="card-price">{{ "%.0f"|format(p.price) }}€<sub>/accès à vie</sub></div>
+          <a href="{{ p.url }}" target="_blank" class="btn-buy">Acheter →</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  {% else %}
+    <div class="empty-state">
+      <div class="empty-icon">🔍</div>
+      <p>Aucun produit trouvé pour cette recherche.</p>
+      <small><a href="/products" style="color:var(--g)">Voir tout le catalogue →</a></small>
+    </div>
+  {% endif %}
+</div>
+
+<footer>
+  <p>&copy; {{ year }} JARVIS AI — Créations numériques premium · <a href="https://ngombad.gumroad.com" target="_blank">Gumroad</a></p>
+</footer>
+
+<script>
+// Intersection Observer for card animations
+const observer = new IntersectionObserver(entries => {
+  entries.forEach((e, i) => {
+    if (e.isIntersecting) {
+      setTimeout(() => e.target.classList.add('visible'), i * 60);
+      observer.unobserve(e.target);
+    }
+  });
+}, { threshold: 0.05 });
+
+document.querySelectorAll('.card').forEach(c => observer.observe(c));
+
+// Sort
+function sortProducts(val) {
+  const grid = document.getElementById('catalog');
+  const cards = [...grid.querySelectorAll('.card')];
+  if (val === 'price-asc') {
+    cards.sort((a, b) => parseFloat(a.dataset.price) - parseFloat(b.dataset.price));
+  } else if (val === 'price-desc') {
+    cards.sort((a, b) => parseFloat(b.dataset.price) - parseFloat(a.dataset.price));
+  }
+  cards.forEach(c => { c.style.opacity='0'; grid.appendChild(c); });
+  setTimeout(() => cards.forEach(c => c.style.opacity='1'), 50);
+}
+
+// Active nav highlight for type filter
+document.querySelectorAll('.filter-btn').forEach(btn => {
+  btn.addEventListener('click', function(e) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    this.classList.add('active');
+  });
+});
+</script>
+</body>
+</html>
