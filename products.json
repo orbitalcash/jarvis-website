@@ -1,154 +1,137 @@
 [
   {
-    "id": "20260511_211559",
-    "type": "cheatsheet",
-    "topic": "Stratégies pour augmenter votre chiffre d'affaires avec la crypto",
-    "title": "Le guide complet: Comment gérer vos cryptomonnaies en 2 minutes",
-    "description": "",
-    "price_eur": 10,
-    "gumroad_url": "https://ngombad.gumroad.com/l/ajvwrl",
-    "published": true,
-    "tags": [
-      "cheatsheet",
-      "reference",
-      "guide",
-      "tips"
-    ]
-  },
-  {
-    "id": "20260511_201150",
-    "type": "ebook",
-    "topic": "Stratégies pour maximiser les bénéfices avec l'IA",
-    "title": "L'IA en action: Comment augmenter vos revenus en une heure",
-    "description": "",
-    "price_eur": 15,
-    "gumroad_url": "https://ngombad.gumroad.com/l/xjhws",
-    "published": true,
-    "tags": [
-      "ebook",
-      "guide",
-      "formation",
-      "pdf"
-    ]
-  },
-  {
-    "id": "20260510_090052",
-    "type": "article",
-    "topic": "Programmation neuro-linguistique",
-    "title": "",
-    "description": "",
-    "price_eur": "Audience gratuite → monétisation",
-    "gumroad_url": "https://ngombad.gumroad.com/l/lklelj",
-    "published": true,
-    "tags": [
-      "content",
-      "blog",
-      "guide"
-    ]
-  },
-  {
-    "id": "20260509_014819",
-    "type": "article",
-    "topic": "Rodion Chtchedrine",
-    "title": "",
-    "description": "",
-    "price_eur": "Audience gratuite → monétisation",
-    "gumroad_url": "https://ngombad.gumroad.com/l/yzxeyc",
-    "published": true,
-    "tags": [
-      "content",
-      "blog",
-      "guide"
-    ]
-  },
-  {
-    "id": "20260509_014707",
-    "type": "article",
-    "topic": "Serge Gainsbourg",
-    "title": "",
-    "description": "",
-    "price_eur": "Audience gratuite → monétisation",
-    "gumroad_url": "https://ngombad.gumroad.com/l/ifhyb",
-    "published": true,
-    "tags": [
-      "content",
-      "blog",
-      "guide"
-    ]
-  },
-  {
-    "id": "20260509_003333",
+    "id": "czbqk",
     "type": "python_script",
-    "topic": "générateur de rapports PDF depuis Google Sheets",
-    "title": "",
+    "topic": "CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
+    "title": "CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
     "description": "",
-    "price_eur": "10–50€",
-    "gumroad_url": "https://ngombad.gumroad.com/l/ncvvdn",
-    "published": true,
-    "tags": [
-      "python",
-      "automation",
-      "script"
-    ]
-  },
-  {
-    "id": "20260508_203201",
-    "type": "micro_saas",
-    "topic": "plateforme de gestion de newsletters minimaliste",
-    "title": "",
-    "description": "",
-    "price_eur": "20–80€",
-    "gumroad_url": "https://ngombad.gumroad.com/l/oybwd",
-    "published": true,
-    "tags": [
-      "saas",
-      "fastapi",
-      "template"
-    ]
-  },
-  {
-    "id": "20260508_202827",
-    "type": "n8n_workflow",
-    "topic": "système de veille concurrentielle automatisé",
-    "title": "",
-    "description": "",
-    "price_eur": "15–30€",
-    "gumroad_url": "https://ngombad.gumroad.com/l/dmfhtf",
-    "published": true,
-    "tags": [
-      "n8n",
-      "automation",
-      "workflow"
-    ]
-  },
-  {
-    "id": "20260508_202813",
-    "type": "article",
-    "topic": "guide complet du staking crypto pour débutants",
-    "title": "",
-    "description": "",
-    "price_eur": "Audience gratuite → monétisation",
-    "gumroad_url": "https://ngombad.gumroad.com/l/yvlao",
-    "published": true,
-    "tags": [
-      "content",
-      "blog",
-      "guide"
-    ]
-  },
-  {
-    "id": "20260508_202757",
-    "type": "python_script",
-    "topic": "bot Telegram de suivi de prix crypto",
-    "title": "",
-    "description": "",
-    "price_eur": "10–50€",
+    "price_eur": 37.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/czbqk",
     "published": true,
     "tags": [
-      "python",
-      "automation",
-      "script"
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "yvlao",
+    "type": "ebook",
+    "topic": "Guide Ultime du Staking Crypto 2025 — Gagnez des Revenus Passifs",
+    "title": "Guide Ultime du Staking Crypto 2025 — Gagnez des Revenus Passifs",
+    "description": "",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/yvlao",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "dmfhtf",
+    "type": "n8n_workflow",
+    "topic": "Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
+    "title": "Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
+    "description": "",
+    "price_eur": 37.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/dmfhtf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oybwd",
+    "type": "micro_saas",
+    "topic": "Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
+    "title": "Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
+    "description": "",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/oybwd",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "ncvvdn",
+    "type": "python_script",
+    "topic": "Script Python : Rapports PDF Automatiques depuis Google Sheets",
+    "title": "Script Python : Rapports PDF Automatiques depuis Google Sheets",
+    "description": "",
+    "price_eur": 37.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ncvvdn",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "lklelj",
+    "type": "ebook",
+    "topic": "PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
+    "title": "PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
+    "description": "",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lklelj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "xjhws",
+    "type": "ebook",
+    "topic": "Maximiser ses Revenus avec l'IA — Stratégies Avancées 2025",
+    "title": "Maximiser ses Revenus avec l'IA — Stratégies Avancées 2025",
+    "description": "",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xjhws",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "ajvwrl",
+    "type": "ebook",
+    "topic": "Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
+    "title": "Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
+    "description": "",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ajvwrl",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "afatr",
+    "type": "prompt_pack",
+    "topic": "1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2025]",
+    "title": "1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2025]",
+    "description": "",
+    "price_eur": 37.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/afatr",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
     ]
   }
 ]
