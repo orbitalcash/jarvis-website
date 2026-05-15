@@ -1,9 +1,144 @@
 [
   {
-    "id": "czbqk",
+    "id": "EQS9a4xlrmg4oeMKxlG0rA==",
+    "type": "bundle",
+    "topic": "Pack Premium",
+    "title": "Pack Premium",
+    "description": "Bundle Premium ? Résolvez vos problèmes financier + 2 autres (Améliorer votre créativité et votre productivité)bundlepack ia",
+    "price_eur": 31.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ptnip",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "8UHQ72lYv1xP9NLHEAHNsw==",
+    "type": "n8n_workflow",
+    "topic": "Workflow n8n",
+    "title": "Workflow n8n",
+    "description": "Maitrisez votre temps avec l'automatisation des formulaires Google Sheets",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qlvrvi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "pZZDDiy6vHxDio1DYWSJow==",
+    "type": "article",
+    "topic": "Guide rapide des cryptomonnaies et du DeFi",
+    "title": "Guide rapide des cryptomonnaies et du DeFi",
+    "description": " Cheatsheet pour débutants",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/sihis",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "PS9ObWVvuUTZC2uisCw57Q==",
+    "type": "landing_page",
+    "topic": "Landing Page",
+    "title": "Landing Page",
+    "description": "Créez une page de destination qui convertit : Modèle de conception",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vzjwz",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "_6oNuJvJxYQZXmJ-6_tSFQ==",
     "type": "python_script",
-    "topic": "CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
-    "title": "CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
+    "topic": "Analyse de donnée avec Python",
+    "title": "Analyse de donnée avec Python",
+    "description": "Script de démarrage",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wzdbsd",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "NeZiLWkQGxB4Em-VMrElew==",
+    "type": "bundle",
+    "topic": "Bundle Premium",
+    "title": "Bundle Premium",
+    "description": "Automatiser vos tâches répétitives ",
+    "price_eur": 60.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qrzbg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "P0S3TGPTnazxgDAR5pa5WA==",
+    "type": "ebook",
+    "topic": "Pack de démarrage pour freelance",
+    "title": "Pack de démarrage pour freelance",
+    "description": "Outils et ressources essentielles ",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bcvxq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "WjsPRoI9cOSAzk34HNtIig==",
+    "type": "micro_saas",
+    "topic": "Créer votre micro Saas",
+    "title": "Créer votre micro Saas",
+    "description": "Guide de démarrage pour les freelances",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/fkfhxr",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "VO7eyH1iEGxT6gW00TdSGg==",
+    "type": "micro_saas",
+    "topic": "Cree micro Saas en quelques heures : Guide de démarrage",
+    "title": "Cree micro Saas en quelques heures : Guide de démarrage",
+    "description": "Un outil de gestion de projet pour les petites entreprises, permettant de créer et de gérer des tâches, des projets et des équipes de manière simple et efficace.",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xoira",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "xhFoEBly-1lJDtkjPxHV5w==",
+    "type": "python_script",
+    "topic": "🤖 CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
+    "title": "🤖 CryptoBot Telegram — Alertes Prix BTC/ETH en Temps Réel [Python]",
     "description": "",
     "price_eur": 37.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/czbqk",
@@ -15,10 +150,10 @@
     ]
   },
   {
-    "id": "yvlao",
-    "type": "ebook",
-    "topic": "Guide Ultime du Staking Crypto 2025 — Gagnez des Revenus Passifs",
-    "title": "Guide Ultime du Staking Crypto 2025 — Gagnez des Revenus Passifs",
+    "id": "cPZ7bxlr-z7_GPXiMSdnKg==",
+    "type": "article",
+    "topic": "📈 Guide Ultime du Staking Crypto 2026 — Gagnez des Revenus Passifs",
+    "title": "📈 Guide Ultime du Staking Crypto 2026 — Gagnez des Revenus Passifs",
     "description": "",
     "price_eur": 27.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/yvlao",
@@ -30,10 +165,10 @@
     ]
   },
   {
-    "id": "dmfhtf",
+    "id": "J_DByH513B8ertOzPAMScA==",
     "type": "n8n_workflow",
-    "topic": "Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
-    "title": "Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
+    "topic": "⚡ Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
+    "title": "⚡ Workflow n8n : Veille Concurrentielle 100% Automatique [Template]",
     "description": "",
     "price_eur": 37.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/dmfhtf",
@@ -45,10 +180,10 @@
     ]
   },
   {
-    "id": "oybwd",
+    "id": "ogeMqkCezseeUTdkjuckmw==",
     "type": "micro_saas",
-    "topic": "Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
-    "title": "Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
+    "topic": "🚀 Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
+    "title": "🚀 Micro-SaaS Newsletter Manager — Template FastAPI Complet [Code Source]",
     "description": "",
     "price_eur": 79.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/oybwd",
@@ -60,10 +195,10 @@
     ]
   },
   {
-    "id": "ncvvdn",
+    "id": "J95tawKV5OffjC6CgY6yVA==",
     "type": "python_script",
-    "topic": "Script Python : Rapports PDF Automatiques depuis Google Sheets",
-    "title": "Script Python : Rapports PDF Automatiques depuis Google Sheets",
+    "topic": "📄 Script Python : Rapports PDF Automatiques depuis Google Sheets",
+    "title": "📄 Script Python : Rapports PDF Automatiques depuis Google Sheets",
     "description": "",
     "price_eur": 37.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/ncvvdn",
@@ -75,10 +210,10 @@
     ]
   },
   {
-    "id": "lklelj",
-    "type": "ebook",
-    "topic": "PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
-    "title": "PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
+    "id": "kwqD-sQLt7wvpd0_m75vmg==",
+    "type": "article",
+    "topic": "🧠 PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
+    "title": "🧠 PNL Pratique — Guide Complet de Programmation Neuro-Linguistique",
     "description": "",
     "price_eur": 27.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/lklelj",
@@ -90,10 +225,10 @@
     ]
   },
   {
-    "id": "xjhws",
+    "id": "ctqGOksPPRPGLKUmbDid8g==",
     "type": "ebook",
-    "topic": "Maximiser ses Revenus avec l'IA — Stratégies Avancées 2025",
-    "title": "Maximiser ses Revenus avec l'IA — Stratégies Avancées 2025",
+    "topic": "💡 Maximiser ses Revenus avec l'IA — Stratégies Avancées 2026",
+    "title": "💡 Maximiser ses Revenus avec l'IA — Stratégies Avancées 2026",
     "description": "",
     "price_eur": 27.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/xjhws",
@@ -105,10 +240,10 @@
     ]
   },
   {
-    "id": "ajvwrl",
-    "type": "ebook",
-    "topic": "Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
-    "title": "Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
+    "id": "Y66BDCEVG6CC6kcphKYbag==",
+    "type": "article",
+    "topic": "₿ Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
+    "title": "₿ Gérer ses Cryptomonnaies Simplement — Guide Débutant Complet",
     "description": "",
     "price_eur": 27.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/ajvwrl",
@@ -120,10 +255,10 @@
     ]
   },
   {
-    "id": "afatr",
+    "id": "_xNVvK-s_JJ6Rh3tjKDvaA==",
     "type": "prompt_pack",
-    "topic": "1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2025]",
-    "title": "1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2025]",
+    "topic": "⚡ 1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2026]",
+    "title": "⚡ 1001 Prompts ChatGPT & Claude — Gagnez 10h/semaine [2026]",
     "description": "",
     "price_eur": 37.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/afatr",
