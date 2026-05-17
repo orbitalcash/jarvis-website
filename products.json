@@ -1,5 +1,20 @@
 [
   {
+    "id": "mKGUyuyD95czHvg9jGNw_g==",
+    "type": "n8n_workflow",
+    "topic": "Workflow N8N",
+    "title": "Workflow N8N",
+    "description": "Automatisation de publication LinkedIn quotidienne",
+    "price_eur": 19.99,
+    "gumroad_url": "https://ngombad.gumroad.com/l/mvlwqx",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
     "id": "EQS9a4xlrmg4oeMKxlG0rA==",
     "type": "bundle",
     "topic": "Pack Premium",
