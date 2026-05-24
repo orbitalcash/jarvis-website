@@ -1,5 +1,93 @@
 [
   {
+    "id": "jccouc_script_video_concepts",
+    "type": "script_video",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Vidéos Expliquant Des Concepts Complexes",
+    "title": "Script Vidéo YouTube / TikTok — Création De Vidéos Expliquant Des Concepts Complexes",
+    "description": "Créez des vidéos pédagogiques captivantes pour YouTube et TikTok grâce à ce script clé en main.",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jccouc",
+    "published": true,
+    "tags": ["ia", "digital", "video", "youtube", "tiktok"]
+  },
+  {
+    "id": "jiyeci_landing_page_campagnes",
+    "type": "landing_page",
+    "topic": "Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Marketing",
+    "title": "Landing Page Haute Conversion — Campagnes Marketing",
+    "description": "Modèle de landing page optimisé pour convertir vos visiteurs en clients lors de campagnes marketing.",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jiyeci",
+    "published": true,
+    "tags": ["ia", "digital", "marketing", "landing-page"]
+  },
+  {
+    "id": "bkhat_ebook_securite_donnees",
+    "type": "ebook",
+    "topic": "eBook / Guide Complet PDF — Introduction À La Sécurité Des Données Pour Les Entreprises",
+    "title": "eBook — Introduction À La Sécurité Des Données Pour Les Entreprises",
+    "description": "Guide complet PDF pour comprendre et appliquer les bonnes pratiques de sécurité des données en entreprise.",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bkhat",
+    "published": true,
+    "tags": ["ia", "digital", "securite", "ebook"]
+  },
+  {
+    "id": "emqomd_saas_petites_entreprises",
+    "type": "micro_saas",
+    "topic": "Création De Solutions SaaS Pour Les Petites Entreprises [FastAPI]",
+    "title": "Création De Solutions SaaS Pour Les Petites Entreprises [FastAPI]",
+    "description": "Template complet FastAPI pour créer votre SaaS sur mesure pour les petites entreprises.",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/emqomd",
+    "published": true,
+    "tags": ["ia", "digital", "saas", "fastapi", "premium"]
+  },
+  {
+    "id": "joevi_campagnes_email_marketing",
+    "type": "email_marketing",
+    "topic": "Création De Campagnes Email Marketing",
+    "title": "Création De Campagnes Email Marketing",
+    "description": "Tout ce qu'il faut pour créer et lancer des campagnes email marketing performantes.",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/joevi",
+    "published": true,
+    "tags": ["ia", "digital", "email", "marketing"]
+  },
+  {
+    "id": "maavl_landing_page_ia",
+    "type": "landing_page",
+    "topic": "Landing Page Haute Conversion — Création De Pages De Destination Avec IA",
+    "title": "Landing Page Haute Conversion — Avec IA",
+    "description": "Créez des pages de destination haute conversion en utilisant l'IA comme levier principal.",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/maavl",
+    "published": true,
+    "tags": ["ia", "digital", "landing-page", "premium"]
+  },
+  {
+    "id": "soqcad_script_video_reseaux_sociaux",
+    "type": "script_video",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Pour Les Réseaux Sociaux",
+    "title": "Script Vidéo — Contenu Pour Les Réseaux Sociaux",
+    "description": "Script clé en main pour créer du contenu vidéo viral sur les réseaux sociaux.",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/soqcad",
+    "published": true,
+    "tags": ["ia", "digital", "video", "reseaux-sociaux"]
+  },
+  {
+    "id": "kdtzl_micro_saas_ecommerce",
+    "type": "micro_saas",
+    "topic": "Création De Micro-SaaS Pour Les E-Commerce [FastAPI]",
+    "title": "Création De Micro-SaaS Pour Les E-Commerce [FastAPI]",
+    "description": "Template FastAPI complet pour créer un micro-SaaS dédié aux e-commerces.",
+    "price_eur": 149.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/kdtzl",
+    "published": true,
+    "tags": ["ia", "digital", "saas", "ecommerce", "fastapi", "premium"]
+  },
+  {
     "id": "mKGUyuyD95czHvg9jGNw_g==",
     "type": "n8n_workflow",
     "topic": "Workflow N8N",
