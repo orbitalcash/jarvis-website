@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Politique de Confidentialité — Jarvis_</title>
+<meta name="description" content="Politique de confidentialité de l'application Jarvis_ — Publication automatique de contenu IA sur TikTok.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#020804;--bg2:#061008;--bg3:#0a1a0a;
+  --green:#00d464;--green2:#00ff7f;--green3:#007a3d;
+  --gold:#ffd700;--blue:#00b4d8;--text:#e8f5e8;--muted:#6b7c6b;
+  --border:rgba(0,212,100,0.15);--glass:rgba(0,212,100,0.04);
+}
+*{margin:0;padding:0;box-sizing:border-box;}
+html{scroll-behavior:smooth;}
+body{font-family:'Inter',sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden;line-height:1.7;}
+::-webkit-scrollbar{width:4px;}
+::-webkit-scrollbar-track{background:#000;}
+::-webkit-scrollbar-thumb{background:var(--green3);border-radius:2px;}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(0,212,100,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(0,212,100,0.03) 1px,transparent 1px);background-size:50px 50px;pointer-events:none;z-index:0;}
+nav{position:fixed;top:0;left:0;right:0;z-index:100;padding:0 40px;height:64px;display:flex;align-items:center;justify-content:space-between;background:rgba(2,8,4,0.85);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);}
+.logo{font-family:'JetBrains Mono',monospace;font-size:1.2rem;font-weight:700;color:var(--green);text-decoration:none;letter-spacing:2px;}
+.logo span{color:var(--text);}
+nav a{color:var(--muted);text-decoration:none;font-size:.85rem;transition:color .2s;}
+nav a:hover{color:var(--green);}
+.container{max-width:800px;margin:0 auto;padding:120px 40px 80px;position:relative;z-index:1;}
+.badge{display:inline-flex;align-items:center;gap:.5rem;background:var(--glass);border:1px solid var(--border);border-radius:20px;padding:.4rem 1rem;font-size:.75rem;color:var(--green);margin-bottom:1.5rem;font-family:'JetBrains Mono',monospace;}
+h1{font-size:2.2rem;font-weight:900;line-height:1.2;margin-bottom:.5rem;}
+h1 .accent{color:var(--green);}
+.last-update{color:var(--muted);font-size:.85rem;margin-bottom:3rem;padding-bottom:1.5rem;border-bottom:1px solid var(--border);}
+h2{font-size:1.1rem;font-weight:700;color:var(--green);margin:2.5rem 0 1rem;font-family:'JetBrains Mono',monospace;letter-spacing:1px;text-transform:uppercase;}
+p{color:#b0c4b0;margin-bottom:1rem;font-size:.95rem;}
+ul{color:#b0c4b0;padding-left:1.5rem;margin-bottom:1rem;}
+ul li{margin-bottom:.5rem;font-size:.95rem;}
+.highlight-box{background:var(--glass);border:1px solid var(--border);border-radius:12px;padding:1.2rem 1.5rem;margin:1.5rem 0;}
+.highlight-box p{margin:0;color:var(--text);}
+a{color:var(--green);text-decoration:none;}
+a:hover{text-decoration:underline;}
+footer{text-align:center;padding:3rem 40px 2rem;color:var(--muted);font-size:.8rem;border-top:1px solid var(--border);position:relative;z-index:1;}
+@media(max-width:640px){.container{padding:100px 20px 60px;}h1{font-size:1.6rem;}}
+</style>
+</head>
+<body>
+<nav>
+  <a class="logo" href="/">JARVIS<span>_</span></a>
+  <a href="/">← Retour</a>
+</nav>
+
+<div class="container">
+  <div class="badge">🔒 Confidentialité</div>
+  <h1>Politique de <span class="accent">Confidentialité</span></h1>
+  <p class="last-update">Application : <strong>Jarvis_</strong> &nbsp;·&nbsp; Dernière mise à jour : 09 juin 2026</p>
+
+  <h2>1. Présentation</h2>
+  <p>
+    La présente Politique de Confidentialité décrit comment l'application <strong>Jarvis_</strong>
+    (ci-après "l'Application") collecte, utilise et protège les données dans le cadre de
+    son intégration avec la plateforme TikTok via l'API TikTok for Developers.
+  </p>
+  <p>
+    L'Application <strong>Jarvis_</strong> est un système automatisé de création et de publication
+    de contenu vidéo éducatif sur TikTok, portant sur les thématiques de l'intelligence artificielle,
+    des outils technologiques et des tendances numériques.
+  </p>
+
+  <h2>2. Données collectées via TikTok</h2>
+  <p>Dans le cadre de l'utilisation de l'API TikTok, l'Application <strong>Jarvis_</strong> accède aux données suivantes :</p>
+  <ul>
+    <li><strong>Informations du compte TikTok</strong> : identifiant (open_id), nom d'affichage, photo de profil</li>
+    <li><strong>Tokens d'authentification OAuth 2.0</strong> : access_token et refresh_token nécessaires à la publication</li>
+    <li><strong>Métadonnées de publication</strong> : identifiants de vidéos publiées (publish_id), statut de traitement</li>
+    <li><strong>Informations créateur</strong> : préférences de confidentialité, options de publication disponibles</li>
+  </ul>
+
+  <div class="highlight-box">
+    <p>⚠️ L'Application <strong>Jarvis_</strong> ne collecte <strong>aucune donnée personnelle</strong> des utilisateurs TikTok tiers. Seules les données du compte propriétaire de l'Application sont traitées.</p>
+  </div>
+
+  <h2>3. Utilisation des données</h2>
+  <p>Les données collectées sont utilisées exclusivement pour :</p>
+  <ul>
+    <li>Authentifier l'Application auprès de l'API TikTok</li>
+    <li>Publier des vidéos générées automatiquement sur le compte TikTok associé</li>
+    <li>Vérifier le statut de traitement des vidéos publiées</li>
+    <li>Rafraîchir les tokens d'authentification expirés</li>
+  </ul>
+  <p>
+    Aucune donnée n'est partagée avec des tiers, revendue ou utilisée à des fins publicitaires.
+  </p>
+
+  <h2>4. Stockage et sécurité</h2>
+  <p>
+    Les tokens d'authentification TikTok sont stockés localement sur le serveur hébergeant
+    l'Application <strong>Jarvis_</strong>, dans un fichier JSON chiffré accessible uniquement
+    par le système. Aucune donnée TikTok n'est stockée sur des serveurs tiers.
+  </p>
+  <ul>
+    <li>Les tokens sont renouvelés automatiquement avant expiration</li>
+    <li>L'accès est limité au processus applicatif Jarvis_</li>
+    <li>Aucune transmission de données vers des bases de données externes</li>
+  </ul>
+
+  <h2>5. Droits des utilisateurs</h2>
+  <p>
+    Conformément au Règlement Général sur la Protection des Données (RGPD) et aux conditions
+    d'utilisation de TikTok, vous pouvez à tout moment :
+  </p>
+  <ul>
+    <li>Révoquer l'accès de l'Application <strong>Jarvis_</strong> à votre compte TikTok depuis les paramètres TikTok → Confidentialité → Appli connectées</li>
+    <li>Demander la suppression des données stockées en contactant : <a href="mailto:ngom.bad@gmail.com">ngom.bad@gmail.com</a></li>
+    <li>Obtenir une copie des données traitées par l'Application</li>
+  </ul>
+
+  <h2>6. Cookies et données de navigation</h2>
+  <p>
+    Le site web de l'Application <strong>Jarvis_</strong> (<a href="https://jarvis-website-production.up.railway.app">jarvis-website-production.up.railway.app</a>)
+    n'utilise pas de cookies de suivi ni de technologies de pistage. Aucune donnée de navigation
+    n'est collectée auprès des visiteurs.
+  </p>
+
+  <h2>7. Intégration TikTok — Conformité</h2>
+  <p>
+    L'Application <strong>Jarvis_</strong> respecte les
+    <a href="https://developers.tiktok.com/doc/content-sharing-guidelines/" target="_blank">directives de partage de contenu TikTok</a>
+    et les <a href="https://developers.tiktok.com/doc/tiktok-api-policy/" target="_blank">politiques d'utilisation de l'API TikTok</a>.
+    Le contenu publié est original, créé par l'Application, et respecte les règles de la communauté TikTok.
+  </p>
+
+  <h2>8. Modifications</h2>
+  <p>
+    Cette politique peut être mise à jour pour refléter les évolutions de l'Application <strong>Jarvis_</strong>
+    ou des exigences légales. La date de dernière modification est indiquée en haut de cette page.
+  </p>
+
+  <h2>9. Contact</h2>
+  <div class="highlight-box">
+    <p>
+      Pour toute question relative à cette politique de confidentialité ou aux données traitées par
+      l'Application <strong>Jarvis_</strong>, contactez : <a href="mailto:ngom.bad@gmail.com">ngom.bad@gmail.com</a>
+    </p>
+  </div>
+</div>
+
+<footer>
+  © {{ year }} <strong>Jarvis_</strong> — Tous droits réservés &nbsp;·&nbsp;
+  <a href="/privacy">Confidentialité</a> &nbsp;·&nbsp;
+  <a href="/terms">Conditions d'utilisation</a>
+</footer>
+</body>
+</html>

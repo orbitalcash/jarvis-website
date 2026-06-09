@@ -186,6 +186,16 @@ async def api_products():
     return [enrich(p) for p in await load_products()]
 
 
+@app.get("/privacy", response_class=HTMLResponse)
+async def privacy(request: Request):
+    return templates.TemplateResponse(request, "privacy.html", {"year": datetime.now().year})
+
+
+@app.get("/terms", response_class=HTMLResponse)
+async def terms(request: Request):
+    return templates.TemplateResponse(request, "terms.html", {"year": datetime.now().year})
+
+
 @app.get("/health")
 async def health():
     prods = await load_products()
