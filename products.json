@@ -1,91 +1,2118 @@
 [
   {
-    "id": "jccouc_script_video_concepts",
-    "type": "script_video",
+    "id": "EwaK9wxOMZgTAaJZIC7V7w==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Produits Pour Les Entreprises",
+    "title": "Bundle Premium — Pack Complet — Pack De Produits Pour Les Entreprises",
+    "description": "## Bundle Premium — Pack Complet — Pack De Produits Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIUM : Entreprise Élevée\n**Prix :**",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/uovohb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "OkS3Jh-S3y3nugJnlo-DDQ==",
+    "type": "prompt_pack",
+    "topic": "10 Prompts IA Premium — Création De Contenu Pour Les Réseaux Sociaux",
+    "title": "10 Prompts IA Premium — Création De Contenu Pour Les Réseaux Sociaux",
+    "description": "## 10 Prompts IA Premium — Création De Contenu Pour Les Réseaux Sociaux\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n---\n## PROMPT 1 — Création de contenu viral pour I",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hlduat",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "4KmCPiJHB_VtPAS_hnTXrg==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Pour E-Commerce [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Pour E-Commerce [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Pour E-Commerce [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n** MICRO-SAAS : Ecommercio **\n**Pitch :** Ecomme",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/zcrgp",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "RAGaNKY9PYRO6UdWmaEMxw==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Réseaux Sociaux",
+    "title": "Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Réseaux Sociaux",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Réseaux Sociaux\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Création de vidéos pour les rése",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ltyfee",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "R52vYxBAloTlEz8IU4zfYQ==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Formation Pour Les Marketingleurs",
+    "title": "Bundle Premium — Pack Complet — Pack De Formation Pour Les Marketingleurs",
+    "description": "## Bundle Premium — Pack Complet — Pack De Formation Pour Les Marketingleurs\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIUM : \"Marketing Mastery Pack\"",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/mwgnz",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "5O2O6t6GST60AF6JOcLHyw==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Pour Les Marketingleurs [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Pour Les Marketingleurs [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Pour Les Marketingleurs [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n**MICRO-SAAS : MarketLearner**\n**Pitch :",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/zgbnml",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "EGECiUoMJ6yZIyhky-H8Rw==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Marketing",
+    "title": "Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Marketing",
+    "description": "## Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Marketing\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Projet p",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wknkkg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "h2sQYQZK-CBudoosB0rHFg==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Création De Contenu Pour Les Blogs",
+    "title": "eBook / Guide Complet PDF — Création De Contenu Pour Les Blogs",
+    "description": "## eBook / Guide Complet PDF — Création De Contenu Pour Les Blogs\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Créez un Contenu de Qualité pour Vos Blogs : Les Secre",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ycpgda",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "wecvcQoVsBczYuf8_M5mlg==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Pour Les Entrepreneurs [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Pour Les Entrepreneurs [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Pour Les Entrepreneurs [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n**MICRO-SAAS :** MicroSaaS Builder\n**Pitc",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/cszitb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "B5C5DxyzHWoydi_wwpYc1Q==",
+    "type": "ebook",
+    "topic": "Organisez vos projets avec efficacité grâce à Notion",
+    "title": "Organisez vos projets avec efficacité grâce à Notion",
+    "description": "## 🚀 Organisez vos projets avec efficacité grâce à Notion\n\n&gt; **Gestion de projet pour les équipes de développement avec Notion**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Gestio",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vyhouv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "sAEKpTAK8ZF90cawO7LrmQ==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Création De Séquences D'Emails Pour Les Marketologues",
+    "title": "Séquence Email Marketing (7 jours) — Création De Séquences D'Emails Pour Les Marketologues",
+    "description": "## Séquence Email Marketing (7 jours) — Création De Séquences D'Emails Pour Les Marketologues\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet ",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hljmpu",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "sMpbrM5Vn6uvqdpUv-GHFw==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Marketologues",
+    "title": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Marketologues",
+    "description": "## Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Marketologues\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Boostez vos conversio",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ekuhzm",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "8WhO_SCR29sg2HUjFFJWMQ==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Création De Pages De Destination Avec La Blockchain",
+    "title": "Copie Landing Page Haute Conversion — Création De Pages De Destination Avec La Blockchain",
+    "description": "## Copie Landing Page Haute Conversion — Création De Pages De Destination Avec La Blockchain\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Débloquez le potentiel de",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qrsiyq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "18XOrDocqRsUUMf69EV0OQ==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Produits Numériques Pour Les Entrepreneurs Avec La Blockchain",
+    "title": "Bundle Premium — Pack Complet — Pack De Produits Numériques Pour Les Entrepreneurs Avec La Blockchain",
+    "description": "## Bundle Premium — Pack Complet — Pack De Produits Numériques Pour Les Entrepreneurs Avec La Blockchain\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIU",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/pekzf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "pGb2dBNpXfnPXUEurxr9xA==",
+    "type": "python_script",
+    "topic": "Script Python : Création De Scripts Python Pour Les Tâches Automatisées [Clé en main]",
+    "title": "Script Python : Création De Scripts Python Pour Les Tâches Automatisées [Clé en main]",
+    "description": "## Script Python : Création De Scripts Python Pour Les Tâches Automatisées [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nDescription :\n    C",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/knoclu",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "FGpKojiEW1D9h2kk8tLw5A==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Agile Avec Notion",
+    "title": "Template Notion Professionnel — Gestion De Projet Agile Avec Notion",
+    "description": "## Template Notion Professionnel — Gestion De Projet Agile Avec Notion\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Projet Agile avec No",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vyilvh",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "uJg6d6ziasgwz_SyUpO2oQ==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Introduction À La Blockchain Et Aux Crypto-Monnaies",
+    "title": "eBook / Guide Complet PDF — Introduction À La Blockchain Et Aux Crypto-Monnaies",
+    "description": "## eBook / Guide Complet PDF — Introduction À La Blockchain Et Aux Crypto-Monnaies\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# **Découvrez le Pouvoir de la Blockcha",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/mxglbb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "-P8mqLKodPW_1Gla3oWZ_Q==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création D'Une Application Saas Pour Les Entrepreneurs En Ligne [FastAPI]",
+    "title": "Template Micro-SaaS : Création D'Une Application Saas Pour Les Entrepreneurs En Ligne [FastAPI]",
+    "description": "## Template Micro-SaaS : Création D'Une Application Saas Pour Les Entrepreneurs En Ligne [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🚀 MICRO-SAAS : Entrep",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hrseek",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "82q9t5Ahc1L4-IRpYoVaow==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Produits Pour Les Entrepreneurs En Ligne",
+    "title": "Bundle Premium — Pack Complet — Pack De Produits Pour Les Entrepreneurs En Ligne",
+    "description": "## Bundle Premium — Pack Complet — Pack De Produits Pour Les Entrepreneurs En Ligne\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIUM : Pack Entrepreneur",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/khdgha",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "R0KWNdRGhTESer2zaBPOEA==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Création D'Une Campagne Email De Vente Pour Les Produits Numériques",
+    "title": "Séquence Email Marketing (7 jours) — Création D'Une Campagne Email De Vente Pour Les Produits Numériques",
+    "description": "## Séquence Email Marketing (7 jours) — Création D'Une Campagne Email De Vente Pour Les Produits Numériques\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — J",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/rkgrnv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "cjOfh2eLwmf2eHbUgC1QVQ==",
+    "type": "n8n_workflow",
+    "topic": "Workflow pour automatiser vos tâches avec n8n pour les équipes",
+    "title": "Workflow pour automatiser vos tâches avec n8n pour les équipes",
+    "description": "## 🚀 Workflow pour automatiser vos tâches avec n8n pour les équipes\n\n&gt; **Automatisation de workflows avec n8n pour les équipes**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Automa",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/oaytc",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "zz5wkMSSKdf9gJPnIPP3aQ==",
+    "type": "python_script",
+    "topic": "Script Python pour automatiser vos tâches financières",
+    "title": "Script Python pour automatiser vos tâches financières",
+    "description": "## 🚀 Script Python pour automatiser vos tâches financières\n\n&gt; **Automatisation de tâches avec Python pour les finances**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Automatisation",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vjnyee",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "9T1cEpNJAN4Jrod2Ryab5w==",
+    "type": "prompt_pack",
+    "topic": "Pack de prompts pour créer des contenus de qualité avec l'IA pour les réseaux sociaux",
+    "title": "Pack de prompts pour créer des contenus de qualité avec l'IA pour les réseaux sociaux",
+    "description": "## 🚀 Pack de prompts pour créer des contenus de qualité avec l'IA pour les réseaux sociaux\n\n&gt; **Création de contenus de qualité avec l'IA pour les réseaux sociaux**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PAR",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/yaraqi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "d_o6wkQTcTktBZTsnyfuew==",
+    "type": "landing_page",
+    "topic": "Modèle de page de destination pour les entrepreneurs en ligne",
+    "title": "Modèle de page de destination pour les entrepreneurs en ligne",
+    "description": "## 🚀 Modèle de page de destination pour les entrepreneurs en ligne\n\n&gt; **Création d'une page de destination pour les entrepreneurs en ligne**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temp",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xgjrgw",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "o9ORi3pdsO-cLB_GOKqnzg==",
+    "type": "ebook",
+    "topic": "Séquence d'emails pour booster vos ventes",
+    "title": "Séquence d'emails pour booster vos ventes",
+    "description": "## 🚀 Séquence d'emails pour booster vos ventes\n\n&gt; **Création d'une campagne email de vente**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création d'une campagne email de vente ? C",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hvobv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "b48qlUO30tTBscRP_JrYeQ==",
+    "type": "python_script",
+    "topic": "Script pour créer des vidéos de qualité avec l'IA pour les réseaux sociaux",
+    "title": "Script pour créer des vidéos de qualité avec l'IA pour les réseaux sociaux",
+    "description": "## 🚀 Script pour créer des vidéos de qualité avec l'IA pour les réseaux sociaux\n\n&gt; **Création de vidéos de qualité avec l'IA pour les réseaux sociaux**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous per",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lywyka",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "6a3adZ7R3tfDU-s5NdQuqw==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack de produits pour les déve + 2 autres",
+    "title": "Bundle Premium — Pack de produits pour les déve + 2 autres",
+    "description": "## 🚀 Bundle Premium — Pack de produits pour les déve + 2 autres\n\n&gt; **bundle incluant: Pack de produits pour les développeurs de blockchain + Script pour créer des vidéos de qualité avec l'IA + Modè",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/yoghfe",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "NrGVmE392i7kZU1an_JHhQ==",
+    "type": "ebook",
+    "topic": "Pack de produits pour les développeurs de blockchain",
+    "title": "Pack de produits pour les développeurs de blockchain",
+    "description": "## 🚀 Pack de produits pour les développeurs de blockchain\n\n&gt; **Pack de produits pour les développeurs de blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Pack de produits ",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/nccuca",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "C5nXcmVRL40nSZQvkZK-Qg==",
+    "type": "python_script",
+    "topic": "Script pour créer des vidéos de qualité avec l'IA",
+    "title": "Script pour créer des vidéos de qualité avec l'IA",
+    "description": "## 🚀 Script pour créer des vidéos de qualité avec l'IA\n\n&gt; **Création de vidéos de qualité avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de vidéos de qualité ave",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/yqgmq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "8VXXmifasWOppwCXh15PaQ==",
+    "type": "micro_saas",
+    "topic": "Modèle de micro SaaS pour les petites entreprises",
+    "title": "Modèle de micro SaaS pour les petites entreprises",
+    "description": "## 🚀 Modèle de micro SaaS pour les petites entreprises\n\n&gt; **Création d'une application SaaS pour les petites entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création d'u",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/eoajph",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "DOruuLr6fM8KKO202yGgWg==",
+    "type": "prompt_pack",
+    "topic": "Pack de prompts pour créer des contenus de qualité avec l'IA",
+    "title": "Pack de prompts pour créer des contenus de qualité avec l'IA",
+    "description": "## 🚀 Pack de prompts pour créer des contenus de qualité avec l'IA\n\n&gt; **Création de contenus de qualité avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de contenus",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xgxdej",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Kt2Uno7bxUww0kYQ5bidkg==",
+    "type": "ebook",
+    "topic": "Découvrez notre pack de produits pour les marketeurs",
+    "title": "Découvrez notre pack de produits pour les marketeurs",
+    "description": "## 🚀 Découvrez notre pack de produits pour les marketeurs\n\n&gt; **Pack de produits pour les marketeurs**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Pack de produits pour les markete",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wuxjgy",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "GHpARCzrFDskIe6qEqogqQ==",
+    "type": "ebook",
+    "topic": "Augmentez vos ventes avec notre séquence d'e-mail personnalisée",
+    "title": "Augmentez vos ventes avec notre séquence d'e-mail personnalisée",
+    "description": "## 🚀 Augmentez vos ventes avec notre séquence d'e-mail personnalisée\n\n&gt; **Marketing par e-mail avec personnalisation**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing par e-",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ldduhw",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "7_xzUOfV8AgV1DnH1w-9Jw==",
+    "type": "ebook",
+    "topic": "Découvrez notre pack de produits pour les développeurs",
+    "title": "Découvrez notre pack de produits pour les développeurs",
+    "description": "## 🚀 Découvrez notre pack de produits pour les développeurs\n\n&gt; **Pack de produits pour les développeurs**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Pack de produits pour les dév",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/zqbdab",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "9uLdxjodNsjMf9AZRsyNmA==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Créez des vidéos professionnel + 2 autres",
+    "title": "Bundle Premium — Créez des vidéos professionnel + 2 autres",
+    "description": "## 🚀 Bundle Premium — Créez des vidéos professionnel + 2 autres\n\n&gt; **bundle incluant: Créez des vidéos professionnelles avec notre script de vidéo + Découvrez les meilleures stratégies pour investi",
+    "price_eur": 67.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/pdobyj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "s7QZnYlLCXM71iHUGIQFXA==",
+    "type": "python_script",
+    "topic": "Créez des vidéos professionnelles avec notre script de vidéo",
+    "title": "Créez des vidéos professionnelles avec notre script de vidéo",
+    "description": "## 🚀 Créez des vidéos professionnelles avec notre script de vidéo\n\n&gt; **Création de vidéos avec IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de vidéos avec IA ? Ce Scr",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lzpgvfj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "O2Jdkjn1kAkQNdSJlY50-A==",
+    "type": "article",
+    "topic": "Découvrez les meilleures stratégies pour investir dans les cryptomonnaies",
+    "title": "Découvrez les meilleures stratégies pour investir dans les cryptomonnaies",
+    "description": "## 🚀 Découvrez les meilleures stratégies pour investir dans les cryptomonnaies\n\n&gt; **Cryptomonnaies et investissement**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Cryptomonnaies e",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jwahca",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Q2tHOBdc992G4kx2NU47Uw==",
+    "type": "ebook",
+    "topic": "Découvrez les meilleures stratégies pour le marketing digital avec IA",
+    "title": "Découvrez les meilleures stratégies pour le marketing digital avec IA",
+    "description": "## 🚀 Découvrez les meilleures stratégies pour le marketing digital avec IA\n\n&gt; **Marketing digital avec IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing digital avec IA ?",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/adsgf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "1Ma-r2REQ2h0zQ7MHqx28w==",
+    "type": "landing_page",
+    "topic": "Créez des pages de destination qui convertissent avec notre modèle",
+    "title": "Créez des pages de destination qui convertissent avec notre modèle",
+    "description": "## 🚀 Créez des pages de destination qui convertissent avec notre modèle\n\n&gt; **Conception de pages de destination avec IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Conception de",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ghltcs",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "stVlzQ7xQv_er0krC2gFhQ==",
+    "type": "landing_page",
+    "topic": "Créez des pages de destination qui convertissent pour vos e-commerce",
+    "title": "Créez des pages de destination qui convertissent pour vos e-commerce",
+    "description": "## 🚀 Créez des pages de destination qui convertissent pour vos e-commerce\n\n&gt; **Conception de pages de destination pour les e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/plbcef",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Wez1PyREmWeNBbeUa3BrIA==",
+    "type": "ebook",
+    "topic": "Créez votre première application IA en 30 jours",
+    "title": "Créez votre première application IA en 30 jours",
+    "description": "## 🚀 Créez votre première application IA en 30 jours\n\n&gt; **Développement d'applications IA avec Python**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Développement d'applications IA",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ijswpp",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Mos6_qXX1TUw1IEPyky41A==",
+    "type": "python_script",
+    "topic": "Apprenez à programmer en Python en 30 jours",
+    "title": "Apprenez à programmer en Python en 30 jours",
+    "description": "## 🚀 Apprenez à programmer en Python en 30 jours\n\n&gt; **Introduction à la programmation Python pour les non-développeurs**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Introduction à",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/iwlyq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "F8ZCeQMT1IA5BXvpyikqyw==",
+    "type": "ebook",
+    "topic": "Boostez vos campagnes email avec notre séquence d'email blockchain",
+    "title": "Boostez vos campagnes email avec notre séquence d'email blockchain",
+    "description": "## 🚀 Boostez vos campagnes email avec notre séquence d'email blockchain\n\n&gt; **Création de campagnes email avec la blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création ",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xbpzmr",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "AIS-IblirCX_sQ264DXFuw==",
+    "type": "n8n_workflow",
+    "topic": "Automatisez vos tâches avec notre workflow n8n blockchain",
+    "title": "Automatisez vos tâches avec notre workflow n8n blockchain",
+    "description": "## 🚀 Automatisez vos tâches avec notre workflow n8n blockchain\n\n&gt; **Automatisation de tâches avec n8n et la blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Automatisation",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qngnpu",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "iN6Azbdfh1CsHtuuU5W2NQ==",
+    "type": "python_script",
+    "topic": "Créez des vidéos de présentation professionnelles avec notre script blockchain",
+    "title": "Créez des vidéos de présentation professionnelles avec notre script blockchain",
+    "description": "## 🚀 Créez des vidéos de présentation professionnelles avec notre script blockchain\n\n&gt; **Création de vidéos de présentation pour les entreprises avec la blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PA",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/esghv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "a6SsIu53CsMyzRq_r-IH3w==",
+    "type": "python_script",
+    "topic": "Protégez vos données avec notre checklist de sécurité des données blockchain",
+    "title": "Protégez vos données avec notre checklist de sécurité des données blockchain",
+    "description": "## 🚀 Protégez vos données avec notre checklist de sécurité des données blockchain\n\n&gt; **Meilleures pratiques pour la sécurité des données avec la blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVo",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vsuuio",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "mOp1fxFcDo3caKjtLxpK_w==",
+    "type": "ebook",
+    "topic": "Boostez vos campagnes email avec notre séquence d'email IA",
+    "title": "Boostez vos campagnes email avec notre séquence d'email IA",
+    "description": "## 🚀 Boostez vos campagnes email avec notre séquence d'email IA\n\n&gt; **Création de campagnes email avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de campagnes emai",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/icxoixl",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "VeWxRX0ZBcX8KQUnq0twOw==",
+    "type": "n8n_workflow",
+    "topic": "Automatisez vos tâches avec notre workflow n8n IA",
+    "title": "Automatisez vos tâches avec notre workflow n8n IA",
+    "description": "## 🚀 Automatisez vos tâches avec notre workflow n8n IA\n\n&gt; **Automatisation de tâches avec n8n et l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Automatisation de tâches avec n",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jakbx",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "wdrAhNEiPxberX7_siyweA==",
+    "type": "ebook",
+    "topic": "Optimisez vos projets avec notre modèle de gestion de projet Notion",
+    "title": "Optimisez vos projets avec notre modèle de gestion de projet Notion",
+    "description": "## 🚀 Optimisez vos projets avec notre modèle de gestion de projet Notion\n\n&gt; **Gestion de projet avec Notion pour les entrepreneurs**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Ge",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/pqabrn",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Qvh7b7eQzlvl4AuILISzSg==",
+    "type": "ebook",
+    "topic": "Boostez votre entreprise avec notre pack de produits numériques IA",
+    "title": "Boostez votre entreprise avec notre pack de produits numériques IA",
+    "description": "## 🚀 Boostez votre entreprise avec notre pack de produits numériques IA\n\n&gt; **Pack de produits numériques pour les entrepreneurs avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jtvbxf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Qv1NHU1ZYlIJ1VP2nSlL2Q==",
+    "type": "python_script",
+    "topic": "Créez des vidéos de présentation professionnelles avec notre script IA",
+    "title": "Créez des vidéos de présentation professionnelles avec notre script IA",
+    "description": "## 🚀 Créez des vidéos de présentation professionnelles avec notre script IA\n\n&gt; **Création de vidéos de présentation pour les entreprises avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xpzbi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "OCI4HH1eMsOxBA7P1gM5vg==",
+    "type": "python_script",
+    "topic": "Protégez vos données avec notre checklist de sécurité des données IA",
+    "title": "Protégez vos données avec notre checklist de sécurité des données IA",
+    "description": "## 🚀 Protégez vos données avec notre checklist de sécurité des données IA\n\n&gt; **Meilleures pratiques pour la sécurité des données avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temp",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xvzdpg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "C3Ej_y94NzBsME9pAffPgw==",
+    "type": "ebook",
+    "topic": "Optimisez vos projets avec notre modèle de gestion de projet Notion IA",
+    "title": "Optimisez vos projets avec notre modèle de gestion de projet Notion IA",
+    "description": "## 🚀 Optimisez vos projets avec notre modèle de gestion de projet Notion IA\n\n&gt; **Gestion de projet avec Notion et l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Gestion de pro",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/uxnuoe",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "C1K3ZaBmNE-jajq_Z2vgPQ==",
+    "type": "micro_saas",
+    "topic": "Créez votre propre micro-SaaS avec notre modèle blockchain",
+    "title": "Créez votre propre micro-SaaS avec notre modèle blockchain",
+    "description": "## 🚀 Créez votre propre micro-SaaS avec notre modèle blockchain\n\n&gt; **Création de micro-SaaS pour les entreprises avec la blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur C",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/govqh",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "NQxSHJYPMZCc4egIOdY6tQ==",
+    "type": "micro_saas",
+    "topic": "Créez votre propre micro-SaaS avec notre modèle IA",
+    "title": "Créez votre propre micro-SaaS avec notre modèle IA",
+    "description": "## 🚀 Créez votre propre micro-SaaS avec notre modèle IA\n\n&gt; **Création de micro-SaaS pour les entreprises avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de micro-",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jlkmg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "z1rGJaMfv_NZy9kYG0dIFg==",
+    "type": "python_script",
+    "topic": "Analysez vos données avec nos scripts Python pour les analyses de données",
+    "title": "Analysez vos données avec nos scripts Python pour les analyses de données",
+    "description": "## 🚀 Analysez vos données avec nos scripts Python pour les analyses de données\n\n&gt; **Analyse de données avec Python pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps s",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/afxatu",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "6JbWg5HA7gaxpBUFZM__jw==",
+    "type": "ebook",
+    "topic": "Créez des séquences d'emails de qualité avec notre modèle pour les entreprises",
+    "title": "Créez des séquences d'emails de qualité avec notre modèle pour les entreprises",
+    "description": "## 🚀 Créez des séquences d'emails de qualité avec notre modèle pour les entreprises\n\n&gt; **Création de séquences d'emails pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du te",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/eilpi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "iJElxZqexzuGf09vS6yRZw==",
+    "type": "micro_saas",
+    "topic": "Créez votre propre micro-SaaS avec notre modèle pour les marketologues",
+    "title": "Créez votre propre micro-SaaS avec notre modèle pour les marketologues",
+    "description": "## 🚀 Créez votre propre micro-SaaS avec notre modèle pour les marketologues\n\n&gt; **Création de micro-SaaS pour les marketologues**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Créati",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/oentipn",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "i02MEoUJrHP7qwP3WeEkHQ==",
+    "type": "ebook",
+    "topic": "Toutes les références marketing que vous avez besoin en un seul endroit",
+    "title": "Toutes les références marketing que vous avez besoin en un seul endroit",
+    "description": "## 🚀 Toutes les références marketing que vous avez besoin en un seul endroit\n\n&gt; **Référence rapide pour les marketologues**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Référence r",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/csigpf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "0Wmao3tClvXeptZJ0kbMig==",
+    "type": "ebook",
+    "topic": "Devenez un développeur expérimenté avec notre pack de formation",
+    "title": "Devenez un développeur expérimenté avec notre pack de formation",
+    "description": "## 🚀 Devenez un développeur expérimenté avec notre pack de formation\n\n&gt; **Pack de formation pour les développeurs**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Pack de formation p",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/uaujb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oatLvmibo7a-FS-JoeT1gw==",
+    "type": "ebook",
+    "topic": "Devenez un marketologue expérimenté avec notre pack de formation",
+    "title": "Devenez un marketologue expérimenté avec notre pack de formation",
+    "description": "## 🚀 Devenez un marketologue expérimenté avec notre pack de formation\n\n&gt; **Pack de formation pour les marketologues**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Pack de formation",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/nsmwle",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "8yZxk6YWEdngR1QGUjDlbQ==",
+    "type": "prompt_pack",
+    "topic": "Boostez vos publications avec nos 100 prompts IA pour les réseaux sociaux",
+    "title": "Boostez vos publications avec nos 100 prompts IA pour les réseaux sociaux",
+    "description": "## 🚀 Boostez vos publications avec nos 100 prompts IA pour les réseaux sociaux\n\n&gt; **Création de contenu pour les réseaux sociaux avec l'IA**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temp",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qxbuj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "zIzEvFfhFFDB3umOxO_1mg==",
+    "type": "ebook",
+    "topic": "Créez des vidéos professionnelles pour votre entreprise de e-commerce",
+    "title": "Créez des vidéos professionnelles pour votre entreprise de e-commerce",
+    "description": "## 🚀 Créez des vidéos professionnelles pour votre entreprise de e-commerce\n\n&gt; **Création de vidéos pour les entreprises de e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/igjsv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "H8b7DXGOx5FrD9FCfrvmXw==",
+    "type": "ebook",
+    "topic": "Créez des vidéos professionnelles pour votre entreprise",
+    "title": "Créez des vidéos professionnelles pour votre entreprise",
+    "description": "## 🚀 Créez des vidéos professionnelles pour votre entreprise\n\n&gt; **Création de vidéos pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de vidéos pour les",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hduekf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Ss5e0PToQZSlNBAhJ9qIeA==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Formation Pour Les Propriétaires D'E-Commerce",
+    "title": "Bundle Premium — Pack Complet — Pack De Formation Pour Les Propriétaires D'E-Commerce",
+    "description": "## Bundle Premium — Pack Complet — Pack De Formation Pour Les Propriétaires D'E-Commerce\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIUM : E-commerce M",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/klrupw",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "FDVIWTTm5UfWql3m0WJjSw==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Création De Chatbots Pour Les Entreprises",
+    "title": "eBook / Guide Complet PDF — Création De Chatbots Pour Les Entreprises",
+    "description": "## eBook / Guide Complet PDF — Création De Chatbots Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Création de Chatbots pour les Entreprises : Rév",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/noubk",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "nSnmAG7PyYSOyaruQl4u9g==",
+    "type": "python_script",
+    "topic": "Script Python : Développement D'Applications De Machine Learning [Clé en main]",
+    "title": "Script Python : Développement D'Applications De Machine Learning [Clé en main]",
+    "description": "## Script Python : Développement D'Applications De Machine Learning [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nDéveloppement d'applicatio",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jjmlm",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "iHu9BSOUGw6kaDLweyGcJw==",
+    "type": "n8n_workflow",
+    "topic": "Workflow n8n : Automatisation De Processus Pour Les Entreprises [Template]",
+    "title": "Workflow n8n : Automatisation De Processus Pour Les Entreprises [Template]",
+    "description": "## Workflow n8n : Automatisation De Processus Pour Les Entreprises [Template]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🔄 WORKFLOW N8N : Automatisation de Gestion",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/uwjzi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "3ZaTwoMSoYrN390vLL6KWA==",
+    "type": "n8n_workflow",
+    "topic": "Workflow n8n : Automatisation De Workflows Pour Les E-Commerce [Template]",
+    "title": "Workflow n8n : Automatisation De Workflows Pour Les E-Commerce [Template]",
+    "description": "## Workflow n8n : Automatisation De Workflows Pour Les E-Commerce [Template]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🔄 WORKFLOW N8N : Automatisation de workflow",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wutpcc",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "NuggqvvayMg8lbZj27v97g==",
+    "type": "ebook",
+    "topic": "Pack marketing digital pour les entreprises de e-commerce",
+    "title": "Pack marketing digital pour les entreprises de e-commerce",
+    "description": "## 🚀 Pack marketing digital pour les entreprises de e-commerce\n\n&gt; **Marketing digital pour les entreprises de e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing di",
+    "price_eur": 89.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/uuxibx",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "fa2HNV-e22GzRU2ifrSc6A==",
+    "type": "landing_page",
+    "topic": "Créez des pages de destination qui convertissent pour votre entreprise de e-commerce",
+    "title": "Créez des pages de destination qui convertissent pour votre entreprise de e-commerce",
+    "description": "## 🚀 Créez des pages de destination qui convertissent pour votre entreprise de e-commerce\n\n&gt; **Création de pages de destination pour les entreprises de e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PAR",
+    "price_eur": 69.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qwghxj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "4mcqWyg6sBJ5fOrVGu9U6g==",
+    "type": "prompt_pack",
+    "topic": "Créez des prompts personnalisés pour vos chatbots",
+    "title": "Créez des prompts personnalisés pour vos chatbots",
+    "description": "## 🚀 Créez des prompts personnalisés pour vos chatbots\n\n&gt; **Création de prompts pour les chatbots**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de prompts pour les chatbo",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lzylmy",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "wU7q7FDOrkHgKZ6tFQ5olA==",
+    "type": "n8n_workflow",
+    "topic": "Automatisez vos processus avec n8n pour votre entreprise de e-commerce",
+    "title": "Automatisez vos processus avec n8n pour votre entreprise de e-commerce",
+    "description": "## 🚀 Automatisez vos processus avec n8n pour votre entreprise de e-commerce\n\n&gt; **Automatisation de processus pour les entreprises de e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du",
+    "price_eur": 59.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/gxknzd",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oYEJaJpocp7At0rWJCit6g==",
+    "type": "ebook",
+    "topic": "Pack marketing digital pour les entreprises",
+    "title": "Pack marketing digital pour les entreprises",
+    "description": "## 🚀 Pack marketing digital pour les entreprises\n\n&gt; **Marketing digital pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing digital pour les entreprises ?",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lvghxg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Z-mm9HZv1pbeCrkhguprSg==",
+    "type": "landing_page",
+    "topic": "Créez des pages de destination qui convertissent",
+    "title": "Créez des pages de destination qui convertissent",
+    "description": "## 🚀 Créez des pages de destination qui convertissent\n\n&gt; **Création de pages de destination pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de pages de",
+    "price_eur": 59.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/oshmqi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "iCYR7CRvprg8aMMdi3ggmA==",
+    "type": "ebook",
+    "topic": "Augmentez vos ventes avec des campagnes de marketing automatisées",
+    "title": "Augmentez vos ventes avec des campagnes de marketing automatisées",
+    "description": "## 🚀 Augmentez vos ventes avec des campagnes de marketing automatisées\n\n&gt; **Marketing automation pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing autom",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/mbgtg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "yYSMbOA6Somoc_AAkxPNTw==",
+    "type": "ebook",
+    "topic": "Gagnez de l'argent avec les marchés financiers grâce à l'IA",
+    "title": "Gagnez de l'argent avec les marchés financiers grâce à l'IA",
+    "description": "## 🚀 Gagnez de l'argent avec les marchés financiers grâce à l'IA\n\n&gt; **Développement d'applications de trading automatique**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Développeme",
+    "price_eur": 59.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/rabfew",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "if_mVL3aVNYvqHXUEsBP5w==",
+    "type": "ebook",
+    "topic": "Créez des logiciels pour votre entreprise de e-commerce",
+    "title": "Créez des logiciels pour votre entreprise de e-commerce",
+    "description": "## 🚀 Créez des logiciels pour votre entreprise de e-commerce\n\n&gt; **Création de logiciels pour les entreprises de e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création d",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/zvlhxe",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "0yEerZCmxDqq0wkOAgUzng==",
+    "type": "ebook",
+    "topic": "Créez des logiciels pour votre entreprise",
+    "title": "Créez des logiciels pour votre entreprise",
+    "description": "## 🚀 Créez des logiciels pour votre entreprise\n\n&gt; **Création de logiciels pour les entreprises**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de logiciels pour les entrepr",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hmalgj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "aGu8Dk_lwIx0ISMTPTGp0g==",
+    "type": "article",
+    "topic": "Découvrez les secrets des cryptomonnaies et du DeFi pour les débutants",
+    "title": "Découvrez les secrets des cryptomonnaies et du DeFi pour les débutants",
+    "description": "## 🚀 Découvrez les secrets des cryptomonnaies et du DeFi pour les débutants\n\n&gt; **Cryptomonnaies et DeFi pour les débutants**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Cryptomonn",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bpnrgr",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "I5hHWlE4KV0uwaudxI_Jwg==",
+    "type": "landing_page",
+    "topic": "Boostez vos ventes avec des pages de destination optimisées",
+    "title": "Boostez vos ventes avec des pages de destination optimisées",
+    "description": "## 🚀 Boostez vos ventes avec des pages de destination optimisées\n\n&gt; **Création de pages de destination pour e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de pa",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bwkmki",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "l9R2BL0yXt45Uxw968hOUQ==",
+    "type": "python_script",
+    "topic": "Cheatsheet / Anti-sèche Premium — Référence Rapide Pour Les Développeurs Python",
+    "title": "Cheatsheet / Anti-sèche Premium — Référence Rapide Pour Les Développeurs Python",
+    "description": "## Cheatsheet / Anti-sèche Premium — Référence Rapide Pour Les Développeurs Python\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : DÉVELOPPEMENT PYTHON\n*",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vgafeo",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "2sHKTW2wzX9wUdLijz1eFA==",
+    "type": "python_script",
+    "topic": "Script Python : Automatisation De Tâches De Crypto-Monnaies Avec Python [Clé en main]",
+    "title": "Script Python : Automatisation De Tâches De Crypto-Monnaies Avec Python [Clé en main]",
+    "description": "## Script Python : Automatisation De Tâches De Crypto-Monnaies Avec Python [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nDescription :\n    C",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/negejs",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "e7t9q6nuR000slTgsQt9wA==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Développement",
+    "title": "Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Développement",
+    "description": "## Template Notion Professionnel — Gestion De Projet Pour Les Équipes De Développement\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Proj",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/chsij",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "eTUSHxf4tuSTr3ExaoK3Wg==",
+    "type": "cheatsheet",
+    "topic": "Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Débutants",
+    "title": "Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Débutants",
+    "description": "## Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Débutants\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : CRYPTO ET DEFI POUR LES DÉBUTANTS\n",
+    "price_eur": 12.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/avgkih",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "5lKidPXH0bbHZlAHLbaQZQ==",
+    "type": "cheatsheet",
+    "topic": "Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Investisseurs",
+    "title": "Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Investisseurs",
+    "description": "## Cheatsheet / Anti-sèche Premium — Crypto Et Defi Pour Les Investisseurs\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : CRYPTO ET DEFI POUR LES INVEST",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hrzrsx",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "XSfz-otNONfTXIddcx0_Xw==",
+    "type": "python_script",
+    "topic": "Créez des vidéos viral avec des scripts personnalisés",
+    "title": "Créez des vidéos viral avec des scripts personnalisés",
+    "description": "## 🚀 Créez des vidéos viral avec des scripts personnalisés\n\n&gt; **Création de vidéos pour YouTube et TikTok**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de vidéos pour You",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jgkzvy",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "gn4IMg2dsQiAArdT-qdhFQ==",
+    "type": "ebook",
+    "topic": "Augmentez vos ventes avec des campagnes e-mail automatisées",
+    "title": "Augmentez vos ventes avec des campagnes e-mail automatisées",
+    "description": "## 🚀 Augmentez vos ventes avec des campagnes e-mail automatisées\n\n&gt; **Marketing par e-mail automatisé**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Marketing par e-mail automatisé",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bbzwaj",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Khr6PGsJB_SJdt65wkwFLg==",
+    "type": "ebook",
+    "topic": "Boostez vos ventes avec des chatbots intelligentes",
+    "title": "Boostez vos ventes avec des chatbots intelligentes",
+    "description": "## 🚀 Boostez vos ventes avec des chatbots intelligentes\n\n&gt; **Création de chatbots pour e-commerce**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps sur Création de chatbots pour e-commerc",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/cuwmju",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "_I-Q5UKAqg8UHU45V1R2pA==",
+    "type": "ebook",
+    "topic": "Planifiez votre stratégie sur les réseaux sociaux: Template Notion complet",
+    "title": "Planifiez votre stratégie sur les réseaux sociaux: Template Notion complet",
+    "description": "## 🚀 Planifiez votre stratégie sur les réseaux sociaux: Template Notion complet\n\n&gt; **Planification des réseaux sociaux pour les startups**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temps ",
+    "price_eur": 12.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wmxhbw",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oeJzb3OCTt_cgDv91mpgXA==",
+    "type": "ebook",
+    "topic": "Tous les éléments essentiels du développement blockchain en un seul endroit",
+    "title": "Tous les éléments essentiels du développement blockchain en un seul endroit",
+    "description": "## 🚀 Tous les éléments essentiels du développement blockchain en un seul endroit\n\n&gt; **Référence rapide pour les développeurs de blockchain**\n\n---\n\n### 🎯 CE PROBLÈME VOUS PARLE ?\nVous perdez du temp",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/stjbjq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "gbp4s8xIjgyz5nlSWJCP7w==",
+    "type": "bundle",
+    "topic": "Bundle Premium — Pack Complet — Pack De Formation En Marketing Digital",
+    "title": "Bundle Premium — Pack Complet — Pack De Formation En Marketing Digital",
+    "description": "## Bundle Premium — Pack Complet — Pack De Formation En Marketing Digital\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎁 BUNDLE PREMIUM : \"Maîtrise du Marketing Digi",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/bpvysm",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "CWo6adyTew-w0Ba6s2ZbEA==",
+    "type": "prompt_pack",
+    "topic": "10 Prompts IA Premium — Création De Contenu Pour Les Agents Ia",
+    "title": "10 Prompts IA Premium — Création De Contenu Pour Les Agents Ia",
+    "description": "## 10 Prompts IA Premium — Création De Contenu Pour Les Agents Ia\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n---\n## PROMPT 1 — Création de contenu pour les agents IA",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/rjiiku",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "0asxkgJ6RQ__6eFrX3RD0Q==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Création De Campagnes Email Pour Les Entreprises E-Commerce",
+    "title": "Séquence Email Marketing (7 jours) — Création De Campagnes Email Pour Les Entreprises E-Commerce",
+    "description": "## Séquence Email Marketing (7 jours) — Création De Campagnes Email Pour Les Entreprises E-Commerce\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/pzwnv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "-1rcTS2gAvGq607qHiEDAw==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Plateformes De Streaming",
+    "title": "Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Plateformes De Streaming",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Vidéos Pour Les Plateformes De Streaming\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Créer des Vidéos Virale",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/tnivq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "RtgfLMNitorr0nfyo0kEzw==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Publicitaires",
+    "title": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Publicitaires",
+    "description": "## Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Publicitaires\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Boostez vos",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/kmjyy",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "mnOnnnjdgEmVuTn38yjpFw==",
+    "type": "python_script",
     "topic": "Script Vidéo YouTube / TikTok — Création De Vidéos Expliquant Des Concepts Complexes",
     "title": "Script Vidéo YouTube / TikTok — Création De Vidéos Expliquant Des Concepts Complexes",
-    "description": "Créez des vidéos pédagogiques captivantes pour YouTube et TikTok grâce à ce script clé en main.",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Vidéos Expliquant Des Concepts Complexes\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Créer des vidéos qui ex",
     "price_eur": 39.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/jccouc",
     "published": true,
-    "tags": ["ia", "digital", "video", "youtube", "tiktok"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "jiyeci_landing_page_campagnes",
+    "id": "N1rVZXMFmTnMWiVSoUJI2A==",
     "type": "landing_page",
-    "topic": "Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Marketing",
-    "title": "Landing Page Haute Conversion — Campagnes Marketing",
-    "description": "Modèle de landing page optimisé pour convertir vos visiteurs en clients lors de campagnes marketing.",
+    "topic": " Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Marketing",
+    "title": " Landing Page Haute Conversion — Création De Pages De Destination Pour Les Campagnes Marketing",
+    "description": "Vous voulez transformer vos visiteurs en clients fidèles ?Ne laissez plus rien au hasard. Avec notre pack Landing Page Haute Conversion, vous obtenez bien plus qu’un simple design : vous offrez à votr",
     "price_eur": 49.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/jiyeci",
     "published": true,
-    "tags": ["ia", "digital", "marketing", "landing-page"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "bkhat_ebook_securite_donnees",
-    "type": "ebook",
+    "id": "etUXA1vsvz9O3k4oB4rY8g==",
+    "type": "python_script",
     "topic": "eBook / Guide Complet PDF — Introduction À La Sécurité Des Données Pour Les Entreprises",
-    "title": "eBook — Introduction À La Sécurité Des Données Pour Les Entreprises",
-    "description": "Guide complet PDF pour comprendre et appliquer les bonnes pratiques de sécurité des données en entreprise.",
+    "title": "eBook / Guide Complet PDF — Introduction À La Sécurité Des Données Pour Les Entreprises",
+    "description": "## eBook / Guide Complet PDF — Introduction À La Sécurité Des Données Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Sécurité des données pour les",
     "price_eur": 19.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/bkhat",
     "published": true,
-    "tags": ["ia", "digital", "securite", "ebook"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "emqomd_saas_petites_entreprises",
+    "id": "kGC2FQF2pS1FrmL4saJwfg==",
     "type": "micro_saas",
-    "topic": "Création De Solutions SaaS Pour Les Petites Entreprises [FastAPI]",
-    "title": "Création De Solutions SaaS Pour Les Petites Entreprises [FastAPI]",
-    "description": "Template complet FastAPI pour créer votre SaaS sur mesure pour les petites entreprises.",
+    "topic": " Création De Solutions Saas Pour Les Petites Entreprises [FastAPI]",
+    "title": " Création De Solutions Saas Pour Les Petites Entreprises [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Solutions Saas Pour Les Petites Entreprises [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n**MICRO-SAAS :** PetitEntrepris",
     "price_eur": 97.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/emqomd",
     "published": true,
-    "tags": ["ia", "digital", "saas", "fastapi", "premium"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "joevi_campagnes_email_marketing",
-    "type": "email_marketing",
+    "id": "v2lWyzbRCQHfdSM90lCHGQ==",
+    "type": "ebook",
     "topic": "Création De Campagnes Email Marketing",
     "title": "Création De Campagnes Email Marketing",
-    "description": "Tout ce qu'il faut pour créer et lancer des campagnes email marketing performantes.",
+    "description": "## Séquence Email Marketing (7 jours) — Création De Campagnes Email Marketing\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** Démarrer vot",
     "price_eur": 49.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/joevi",
     "published": true,
-    "tags": ["ia", "digital", "email", "marketing"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "maavl_landing_page_ia",
+    "id": "6XCHgHGgzNPPtI30YTUeiA==",
     "type": "landing_page",
-    "topic": "Landing Page Haute Conversion — Création De Pages De Destination Avec IA",
-    "title": "Landing Page Haute Conversion — Avec IA",
-    "description": "Créez des pages de destination haute conversion en utilisant l'IA comme levier principal.",
+    "topic": " Landing Page Haute Conversion — Création De Pages De Destination Avec Ia",
+    "title": " Landing Page Haute Conversion — Création De Pages De Destination Avec Ia",
+    "description": "🤖 Créez des pages de vente qui convertent… grâce à l'IACopie Landing Page Haute Conversion — Création De Pages De Destination Avec IACréé par JARVIS AI — Votre assistant personnel de pointeVous passez",
     "price_eur": 69.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/maavl",
     "published": true,
-    "tags": ["ia", "digital", "landing-page", "premium"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "soqcad_script_video_reseaux_sociaux",
-    "type": "script_video",
+    "id": "k8jh-y0Hd34LGmkyTW8BTw==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les E-Commerce",
+    "title": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les E-Commerce",
+    "description": "## Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les E-Commerce\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** Boostez v",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/wgtoah",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "8YnmXB_4xD9ir6RK1zxSEw==",
+    "type": "python_script",
     "topic": "Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Pour Les Réseaux Sociaux",
-    "title": "Script Vidéo — Contenu Pour Les Réseaux Sociaux",
-    "description": "Script clé en main pour créer du contenu vidéo viral sur les réseaux sociaux.",
+    "title": "Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Pour Les Réseaux Sociaux",
+    "description": "Vous passez des heures à trouver la bonne idée de script ?Et si vous pouviez obtenir un script prêt à tourner, conçu pour faire le buzz, en quelques secondes ?🎯 Ce que vous obtenez📱 SCRIPT : Création ",
     "price_eur": 69.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/soqcad",
     "published": true,
-    "tags": ["ia", "digital", "video", "reseaux-sociaux"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
-    "id": "kdtzl_micro_saas_ecommerce",
+    "id": "I1_wppKstBA4-5O-Hl0IWQ==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les E-Commerce",
+    "title": "Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les E-Commerce",
+    "description": "## Copie Landing Page Haute Conversion — Création De Pages De Destination Pour Les E-Commerce\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Boostez vos ventes en li",
+    "price_eur": 79.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/fpdtb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "JRfUCMNjRmXkjsMz6iRQiw==",
+    "type": "python_script",
+    "topic": "Script Python : Analyse De Données Pour Les Entreprises [Clé en main]",
+    "title": "Script Python : Analyse De Données Pour Les Entreprises [Clé en main]",
+    "description": "## Script Python : Analyse De Données Pour Les Entreprises [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nAnalyse de données pour les entrepr",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/vhaid",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "X7xJjvyHzVd4MNz7QEAXVQ==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Vibe Coding Pour Les Débutants",
+    "title": "eBook / Guide Complet PDF — Vibe Coding Pour Les Débutants",
+    "description": "## eBook / Guide Complet PDF — Vibe Coding Pour Les Débutants\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Vibe Coding pour les Débutants : Apprenez la Programmation",
+    "price_eur": 25.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/nyugr",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "3hvpZ-X72PuQr_V8iiMdcA==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Avec Notion Pour Les Équipes",
+    "title": "Template Notion Professionnel — Gestion De Projet Avec Notion Pour Les Équipes",
+    "description": "## Template Notion Professionnel — Gestion De Projet Avec Notion Pour Les Équipes\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Projet Éq",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ryblf",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "YUGe2wXAJDHIUgQb-N7QAA==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Planification Financière Pour Les Étudiants",
+    "title": "Template Notion Professionnel — Planification Financière Pour Les Étudiants",
+    "description": "## Template Notion Professionnel — Planification Financière Pour Les Étudiants\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Planification Financièr",
+    "price_eur": 12.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/owpnb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "LuLYg5K9njo4MYE7h7QP2g==",
     "type": "micro_saas",
-    "topic": "Création De Micro-SaaS Pour Les E-Commerce [FastAPI]",
-    "title": "Création De Micro-SaaS Pour Les E-Commerce [FastAPI]",
-    "description": "Template FastAPI complet pour créer un micro-SaaS dédié aux e-commerces.",
+    "topic": "Création De Micro-Saas Pour Les E-Commerce [FastAPI]",
+    "title": "Création De Micro-Saas Pour Les E-Commerce [FastAPI]",
+    "description": "Vous rêvez de lancer votre propre SaaS… mais vous n'avez pas des mois pour coder ?Et si vous pouviez démarrer avec une base propre, prête à être déployée et monétisée dès aujourd'hui ?---### 🎯 Ce que ",
     "price_eur": 149.0,
     "gumroad_url": "https://ngombad.gumroad.com/l/kdtzl",
     "published": true,
-    "tags": ["ia", "digital", "saas", "ecommerce", "fastapi", "premium"]
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oudCbGb9vl11x53xDhKu7Q==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec Ia",
+    "title": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec Ia",
+    "description": "## Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec Ia\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** Découvrez le pouvoir ",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/dnvnmd",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "2222OrvgNh973-vo1wkboQ==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Avec Ia",
+    "title": "Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Avec Ia",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Contenu Vidéo Avec Ia\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Créer des vidéos viraux avec l'IA : Les se",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ibzna",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "vrLDn0n4Z5YkgVt2QEXGuw==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Générateur De Factures Pdf Automatique [FastAPI]",
+    "title": "Template Micro-SaaS : Générateur De Factures Pdf Automatique [FastAPI]",
+    "description": "## Template Micro-SaaS : Générateur De Factures Pdf Automatique [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Facturo\n## Facturo est un générateur de factur",
+    "price_eur": 20.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/icxwq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "X3SaCTZW5B-tEKBcBAj21w==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Créer Un Site E-Commerce À Moindre Coût Avec Wix",
+    "title": "Script Vidéo YouTube / TikTok — Créer Un Site E-Commerce À Moindre Coût Avec Wix",
+    "description": "## Script Vidéo YouTube / TikTok — Créer Un Site E-Commerce À Moindre Coût Avec Wix\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Créer un site e-commerce à ",
+    "price_eur": 25.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/rpgenl",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "cTGhJxYUxCpAUsMKsMa8Yg==",
+    "type": "ebook",
+    "topic": "Plan App Emergent (No-Code) — Generateur De Posts Linkedin Automatique",
+    "title": "Plan App Emergent (No-Code) — Generateur De Posts Linkedin Automatique",
+    "description": "## Plan App Emergent (No-Code) — Generateur De Posts Linkedin Automatique\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# NOM DE L'APP : AutoPosteur\n## Pitch 1 phrase :",
+    "price_eur": 9.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/yrqqcp",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "hm5p-aO-kOuA0GBT5BLqSg==",
+    "type": "python_script",
+    "topic": "Script Python : Scraper De Prix Amazon Avec Alertes Email [Clé en main]",
+    "title": "Script Python : Scraper De Prix Amazon Avec Alertes Email [Clé en main]",
+    "description": "## Script Python : Scraper De Prix Amazon Avec Alertes Email [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nREADME :\nCe script Python est con",
+    "price_eur": 10.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/cqeguq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "7Gir_9FVPK0LPRotj_TrdQ==",
+    "type": "article",
+    "topic": "Guide Complet : Comment Gagner De L'Argent Avec L'Ia En 2025",
+    "title": "Guide Complet : Comment Gagner De L'Argent Avec L'Ia En 2025",
+    "description": "## Guide Complet : Comment Gagner De L'Argent Avec L'Ia En 2025\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Révolutionnez Votre Porte-Monnaie : Comment Gagner de l'",
+    "price_eur": 9.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/chcuo",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Z4845apAwblT3QWtFuAGzw==",
+    "type": "n8n_workflow",
+    "topic": "Workflow n8n : Automatisation De Publication Linkedin Quotidienne [Template]",
+    "title": "Workflow n8n : Automatisation De Publication Linkedin Quotidienne [Template]",
+    "description": "## Workflow n8n : Automatisation De Publication Linkedin Quotidienne [Template]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Workflow : Automatisation de publication",
+    "price_eur": 15.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/rhfcx",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "_rk1p0a3T-CsZeQybnFwEw==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Avec Notion",
+    "title": "Template Notion Professionnel — Gestion De Projet Avec Notion",
+    "description": "## Template Notion Professionnel — Gestion De Projet Avec Notion\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Projet Avancé\n## Descripti",
+    "price_eur": 27.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ecvlos",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "sNuJ6OgclZ4e3C4ftlczIw==",
+    "type": "cheatsheet",
+    "topic": "Cheatsheet / Anti-sèche Premium — Création De Contenu Avec L'Ia Pour Les Entreprises",
+    "title": "Cheatsheet / Anti-sèche Premium — Création De Contenu Avec L'Ia Pour Les Entreprises",
+    "description": "## Cheatsheet / Anti-sèche Premium — Création De Contenu Avec L'Ia Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : CRÉATION DE CONTE",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qhlwk",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "PYF-TaMeo6q4vPmXRnGvKQ==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Avec Ia [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Avec Ia [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Avec Ia [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🚀 MICRO-SAAS : IA Creator\n**Pitch :** IA Creator est u",
+    "price_eur": 97.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/lfemyt",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "p42pON5IWMNWO2MbOxnqOw==",
+    "type": "article",
+    "topic": "Guide Complet : Bien Être",
+    "title": "Guide Complet : Bien Être",
+    "description": "## Guide Complet : Bien Être\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Le Pouvoir du Bien-Être : Comment Transformer Votre Vie en un État de Félicité Durable\n\n## ",
+    "price_eur": 9.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jsmmzy",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "FlSlcea4fZR733GA9BZROQ==",
+    "type": "article",
+    "topic": "Guide Complet : Crypto",
+    "title": "Guide Complet : Crypto",
+    "description": "## Guide Complet : Crypto\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# La Révolution des Crypto-Monnaies : Comprendre l'Avenir de l'Argent\n## Introduction : Le Futur",
+    "price_eur": 9.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/saqrq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "Eh3S1sUx50YaqLYQoQ7fiA==",
+    "type": "cheatsheet",
+    "topic": "Cheatsheet / Anti-sèche Premium — Cryptomonnaies Et Defi",
+    "title": "Cheatsheet / Anti-sèche Premium — Cryptomonnaies Et Defi",
+    "description": "## Cheatsheet / Anti-sèche Premium — Cryptomonnaies Et Defi\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : CRYPTOMONNAIES ET DeFi\n*Référence rapide comp",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/xwhdg",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "1nQ9qkeucKAEDvHI0qGnJw==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Entreprises",
+    "title": "Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Entreprises",
+    "description": "## Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Boostez vos ventes\n##",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/qnhwjb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "J5twvZRpJNnrV5ZkZ80Sqw==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Pour Les Entreprises [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Pour Les Entreprises [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Pour Les Entreprises [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🚀 MICRO-SAAS : MicroEntreprise\n**Pitch :*",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/canap",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "REpuaIJy1UY8Ztf49xuPCw==",
+    "type": "python_script",
+    "topic": "Script Python : Analyse De Données Avec Python [Clé en main]",
+    "title": "Script Python : Analyse De Données Avec Python [Clé en main]",
+    "description": "## Script Python : Analyse De Données Avec Python [Clé en main]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n```python\n\"\"\"\nAnalyse de données avec Python\n\nDescription ",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/apmhui",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "41XbTzyMVI5TVzry8lJTUA==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Freelances",
+    "title": "Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Freelances",
+    "description": "## Copie Landing Page Haute Conversion — Conception De Pages De Destination Pour Les Freelances\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Boostez votre carrière",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ljsdwq",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "ssFpE6hZopTVFaJdkVRC-g==",
+    "type": "micro_saas",
+    "topic": "Template Micro-SaaS : Création De Micro-Saas Pour Les Freelances [FastAPI]",
+    "title": "Template Micro-SaaS : Création De Micro-Saas Pour Les Freelances [FastAPI]",
+    "description": "## Template Micro-SaaS : Création De Micro-Saas Pour Les Freelances [FastAPI]\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n**MICRO-SAAS : FreelanceHub**\n**Pitch :** Fr",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/amxdky",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "g22ql3Qj9k7GOzBkQt0x4A==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Productivité Et Organisation Personnelle",
+    "title": "Template Notion Professionnel — Productivité Et Organisation Personnelle",
+    "description": "## Template Notion Professionnel — Productivité Et Organisation Personnelle\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Productivité et Organisati",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/hbxaqd",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "BpYc5rEY4vDmYkK_yOmswA==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Contenu Sur Youtube",
+    "title": "Script Vidéo YouTube / TikTok — Création De Contenu Sur Youtube",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Contenu Sur Youtube\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Créer un Contenu Viral sur YouTube\n**Durée e",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/iubzfv",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "tUJhYeNcLej2e63aT_TqZA==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Marketing Digital Pour Les Petites Entreprises",
+    "title": "eBook / Guide Complet PDF — Marketing Digital Pour Les Petites Entreprises",
+    "description": "## eBook / Guide Complet PDF — Marketing Digital Pour Les Petites Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Boostez Votre Entreprise : Le Guide Ultime",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/tesii",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "TLByz8awYLz5lw5qjAMKOw==",
+    "type": "ebook",
+    "topic": "Template Notion Professionnel — Gestion De Projet Pour Les Freelances",
+    "title": "Template Notion Professionnel — Gestion De Projet Pour Les Freelances",
+    "description": "## Template Notion Professionnel — Gestion De Projet Pour Les Freelances\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Template Notion : Gestion de Projet pour les Fr",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/mnohb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "4sMwHzmLIjznQGwOhFJ-rw==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Entreprises",
+    "title": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Entreprises",
+    "description": "## Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** Découvre",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/jcmrih",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "KDxAjTwjeeQnM_SUaKSWMw==",
+    "type": "python_script",
+    "topic": "Cheatsheet / Anti-sèche Premium — Sécurité Des Données Pour Les Entreprises",
+    "title": "Cheatsheet / Anti-sèche Premium — Sécurité Des Données Pour Les Entreprises",
+    "description": "## Cheatsheet / Anti-sèche Premium — Sécurité Des Données Pour Les Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# ⚡ CHEATSHEET : SÉCURITÉ DES DONNÉES POUR ",
+    "price_eur": 19.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/voyaeb",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "zWQ6WJ4ZQnb_JGrSjoeNQg==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Petites Entreprises",
+    "title": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Petites Entreprises",
+    "description": "## Séquence Email Marketing (7 jours) — Marketing Par E-Mail Pour Les Petites Entreprises\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** ",
+    "price_eur": 29.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/enjofi",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "V1p6bpSwJLZEBsp3O83w5Q==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Contenu Sur Tiktok",
+    "title": "Script Vidéo YouTube / TikTok — Création De Contenu Sur Tiktok",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Contenu Sur Tiktok\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Comment créer du contenu viral sur TikTok\n**D",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/pznml",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "VKU5Om_wsyQPtIQc3-dIYw==",
+    "type": "article",
+    "topic": "eBook / Guide Complet PDF — Investissement Dans Les Crypto-Monnaies",
+    "title": "eBook / Guide Complet PDF — Investissement Dans Les Crypto-Monnaies",
+    "description": "## eBook / Guide Complet PDF — Investissement Dans Les Crypto-Monnaies\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# Investir dans les Crypto-Monnaies : Le Guide Ulti",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/nbmzh",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "oaa6xIKR0zjhWp1ON0ldDA==",
+    "type": "ebook",
+    "topic": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec L'Ia",
+    "title": "Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec L'Ia",
+    "description": "## Séquence Email Marketing (7 jours) — Marketing Par E-Mail Avec L'Ia\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n## EMAIL 1 — Jour 1\n**Objet :** Découvrez le secret",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/awktrz",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "GCjThv5ADDDk1FxubbVnbg==",
+    "type": "python_script",
+    "topic": "Script Vidéo YouTube / TikTok — Création De Vidéos Avec L'Ia Pour Les Réseaux Sociaux",
+    "title": "Script Vidéo YouTube / TikTok — Création De Vidéos Avec L'Ia Pour Les Réseaux Sociaux",
+    "description": "## Script Vidéo YouTube / TikTok — Création De Vidéos Avec L'Ia Pour Les Réseaux Sociaux\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# SCRIPT : Création de vidéos ave",
+    "price_eur": 39.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/nhdmue",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
+  },
+  {
+    "id": "G_GktqaLIsnWPAr0oEXlBA==",
+    "type": "landing_page",
+    "topic": "Copie Landing Page Haute Conversion — Création De Pages De Destination Avec L'Ia",
+    "title": "Copie Landing Page Haute Conversion — Création De Pages De Destination Avec L'Ia",
+    "description": "## Copie Landing Page Haute Conversion — Création De Pages De Destination Avec L'Ia\n\nCréé par JARVIS AI — Assistant personnel de pointe.\n\n### Ce que vous obtenez\n# 🎯 Créez des pages de destination per",
+    "price_eur": 49.0,
+    "gumroad_url": "https://ngombad.gumroad.com/l/ufbpvh",
+    "published": true,
+    "tags": [
+      "ia",
+      "digital",
+      "premium"
+    ]
   },
   {
     "id": "mKGUyuyD95czHvg9jGNw_g==",
